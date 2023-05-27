@@ -1,0 +1,35 @@
+There is growing bipartisan concern over the power Silicon Valley ’ s oligopolies wield over American society .
+Amazon alone controls 72 % of U.S. adult book sales , Airbnb accounts for a fifth of domestic lodging expenditures and Facebook accounts for almost three-quarters of social media visits .
+Just two companies , Apple and Google , act as gatekeepers to 99 % of smartphones , while two others , Uber and Lyft , control 98 % of the ride-share market in the U.S .
+Yet , for government to take robust antitrust action against Silicon Valley requires the kind the harm this market consolidation inflicts on consumers .
+A new RealClearFoundation report offers a look at how amending Section 230 of the Communications Decency Act to require platform transparency could aid such antitrust efforts .
+When it comes to Silicon Valley ’ s social media platforms , they have long argued that antitrust laws don ’ t apply to them because their services are provided free of charge .
+In reality , users do pay for their services : with their data rather than their money .
+Companies today harvest vast amounts day , using that data to invisibly nudge their users toward purchases and consuming ads , or the companies simply sell that data outright .
+The question must be asked : If the amount and intimacy of that data increases alongside a company ’ s market dominance , are antitrust conditions of rising “ prices ” satisfied ?
+Moreover , that same data is being increasingly used to determine what we pay for goods and services through “ differential pricing.
+” In 2000 , when Amazon experimented with charging different users different prices differences were randomly selected rather than personalized ) , it had just 20 million users .
+Today Amazon ’ s market share stands at more than 40 % , and while the company states it does not employ “ differential pricing , ” e-commerce platforms increasingly base pricing on factors as diverse as search history , home address , in-store vs. online and even Mac vs. PC usage , to name just a few .
+As major brands like Target also move toward contextual pricing , it is only a matter of time it .
+Beyond price , the growing consolidation within entire industries to just a handful of companies means the policies of those companies can have outsized economic impacts on American life , often in unexpected ways .
+In 2019 , I asked Uber how it ensured that the ratings its drivers assign to passengers did not unfairly penalize older and disabled riders who require additional time to enter and exit vehicles , given that low ratings can result in being banned from the service .
+A spokesperson pointed to its non-discrimination policy , community guidelines explicitly require that riders “ always try to be on time for your ride … because nobody likes to wait ” ; the spokesperson did not comment further when pressed on the impact of this policy on the disabled .
+Last month , the Department of Justice sued Uber for charging wait fees to disabled users in violation of the Americans With Disabilities Act .
+Similarly , in 2018 I asked Facebook to explain why it built its advertising system to allow housing , employment and credit advertisements to explicitly exclude violation of federal law and its own policies , cutting them off from economic opportunities .
+A spokesperson emphasized that it was responsibility of advertisers to comply with discrimination laws and did not comment further when asked why it did not simply remove those options for protected ad classes .
+It was not until the following year , after settling a series of lawsuits by civil rights organizations , that the company finally removed the ability of advertisers to exclude legally protected groups from seeing housing , employment and credit ads .
+Yet the company ’ s algorithms had learned to continue targeting ads based on those removed categories by identifying non-protected demographic and interest information that were highly correlated with them .
+Uber ’ s decision to charge a “ wait time ” fee meant higher costs for the disabled across 69 % of the American ride-share market .
+Facebook ’ s decision to allow housing , employment and credit ads to explicitly target or exclude users based on age , race and gender and to resurrect redlining using pinpoint geo-fencing , impacted the economic adults .
+A common theme among all of these examples , from Amazon ’ s 2000 pricing experiment to Uber and Facebook ’ s discriminatory policies , is that they came to light not through voluntary disclosures by the companies , but rather through external scrutiny and data .
+Yet , these discoveries remain the exceptions .
+Despite their vast internal stores of data , the companies typically refuse to confirm even the most basic of statistics , such as the number of tweets sent each day or the criteria their algorithms use were forced to share basic pricing information ?
+After the federal government required hospitals to begin sharing their previously confidential pricing data by earlier this year , journalists and researchers have been able to document substantial differences between what different patients pay for the same procedure , offering critical insights to policymakers .
+Imagine if all e-commerce sites with more than a certain number of users were forced to publish hourly snapshots of the maximum and minimum prices they charged for each item on their site , allowing similar external scrutiny .
+Such to prevent competitive misuse while still offering critical transparency into just how much of an impact differential pricing is having on American consumers .
+Similarly , what if “ free ” ad-supported platforms with more than a certain number of users had to offer each of their users a monthly report detailing every purchase , sale or collection of their personal data and how much money , including ad revenue , they made from that user and all of the companies and governments that purchased access to their data ?
+This would allow of our data that we essentially barter for access to these platforms is steadily increasing and would provide evidence as to whether the hidden price we pay for social platforms is steadily increasing .
+As foreshadowed by TikTok , future top social media and e-commerce platforms may not be American companies or even have a physical or financial presence in the U.S. , complicating antitrust enforcement .
+Making these transparency requirements an amendment to Section 230 would ensure disclosure even for such companies , providing critical visibility for policymakers to understand their impact , antitrust regulation will struggle until policymakers and the public can see for the first time the true economic cost of Silicon Valley ’ s ever-growing consolidation .
+RealClear Media Fellow Kalev Leetaru is a senior fellow at the George Washington University Center for Cyber & Homeland Security .
+His past roles include fellow in residence at Georgetown University ’ s Edmund A. Walsh School of Foreign Service and member of the World Economic Forum ’ s Global Agenda Council on the Future of Government .

@@ -1,0 +1,120 @@
+Washington is finally tackling one of the biggest obstacles to closing the nation ’ s digital divide : identifying the broadband dead zones where millions of Americans lack fast internet service .
+But that ’ s coming too late for the broadband gold rush of 2021 .
+States and cities are already allocating more than $ 10 billion in federal pandemic relief to get broadband into underserved communities — the biggest government investment ever toward increasing internet connectivity .
+Another $ 42 billion in broadband expansion money is due to come from the bipartisan infrastructure law that President Joe Biden won ’ t start doling that cash out for at least another year .
+For now , though , many states don ’ t know where to put that first round of cash .
+They have only a murky picture of where their internet dead spots are , thanks to the federal government ’ s reliance on broadband mapping methods that dramatically overstate existing coverage .
+The Federal Communications Commission ’ s maps , based on data from telecom providers , have fueled years of complaints from local government leaders and members of one of the biggest threats to getting millions more Americans wired with fast internet — an increasingly crucial gateway to jobs , schooling and commerce .
+In one Mississippi county , the federal estimates of broadband availability are off by 80 percent , a regulator in that state has said .
+Ohio , West Virginia and Michigan , three states with huge connectivity shortfalls , have little idea how large their coverage gaps are or which counties have the worst problems .
+Congress has required that better maps be in place before the make it easier to target the neediest areas during the second , larger round .
+But logistical hurdles are already threatening to delay the planned maps , pushing that larger bucket of money well into the future .
+That means counties and towns that need the money now may lose out .
+“ The mapping has been totally inaccurate , ” said Gayle Manchin , co-chair of the Appalachian Regional Commission and wife of Sen. Joe Manchin ( D-W.Va. ) .
+She said bad data has historically been an obstacle .
+“ The t need funding because your state is completely covered.
+” Her husband , who co-chairs the Senate Broadband Caucus , has cited estimates that the FCC maps overstate West Virginia ’ s broadband coverage by 36 percent — an error that rendered nearly 600,000 residents there ineligible for a recent round of federal broadband subsidies .
+Current FCC mapping “ stinks , ” agency Chair Jessica Rosenworcel acknowledged during her mid-November confirmation hearing .
+“ For too long , the FCC ’ s been working off maps that are not accurate , ” are “ working morning , noon and night ” to lock down better data .
+Any stumbles in steering the money would hold political implications for Democrats , who have promised that their infrastructure plan will expand the blessings of speedy internet service to rural hinterlands and inner cities .
+And delays appear likely .
+The FCC already faces a bid protest over its selection of a contractor to help with the mapping effort .
+People far from Washington just want to figure out who in their community lacks access .
+In February s Athens County tapped high school history teacher Paul Isherwood as the county ’ s first-ever broadband coordinator , a privately funded position meant to create a strategy for using the incoming dollars .
+His first thought : “ OK , I need to know where all the fiber is .
+Where ’ s all the points of connection ?
+Is there somewhere where there ’ s a map ?
+Do the county commissioners have that , does the city planner have that ?
+” The reaction to his questions : Laughter at ’ and ready , others scrambling Plenty of broadband money is already heading out the door even before the infrastructure grants start flowing .
+Cities and states can draw broadband money from their shares of a $ 350 billion fund created by March ’ s pandemic relief package , as well as a $ 10 billion Capital Projects Fund , both run out of the Treasury Department .
+Other pandemic relief efforts supporting digital infrastructure include a $ 980 million Commerce Department fund aimed at bolstering connectivity for American Indian tribes and another gear .
+Exactly how much of this money would go to broadband — and other connectivity fixes , such as cell towers — is in flux and varies by state .
+California has created a $ 6 billion broadband plan , while Virginia is eyeing $ 700 million , Tennessee $ 500 million and North Carolina $ 1.2 billion .
+States from Arizona to Wisconsin to Maine are pursuing plans to spend at least $ 100 million apiece .
+Individual cities have seized the potential too , such as Brownsville , Texas , lay fiber .
+In Ohio , Republican Gov .
+Mike DeWine signed a law this summer creating a broadband program aimed at providing $ 20 million in state money to go along with the expected federal dollars .
+Some states have an advantage , however : They ’ re armed with more accurate data about where to target the windfall .
+Georgia worked to identify broadband gaps during the past three years , motivated by both the shoddy federal data and a hope to get money from former President Donald Trump ’ s improved maps went online last year just as the state needed those details : coverage information down to the address , partly thanks to deal-making with local internet service providers .
+During Covid lockdowns , Georgia was able to identify where schoolchildren couldn ’ t participate in remote learning due to lack of at-home broadband .
+Leaders now see those early investments as fortuitous , given the $ 2.4 billion the state received in its first tranche of pandemic relief money — $ 300 million of which will go to broadband infrastructure .
+’ re ready , ” said Mike Curtis , director of planning and strategy in the Georgia Technology Authority .
+“ We have everything in place — we have the vendors in place , we have the data in place , we have the providers in place .
+And we ’ ve got the money.
+” He added : “ We ’ re in graduate school .
+Some of these states , they ’ re in elementary , maybe pre-K. ” But the unreadiness of other states is unsettling policymakers who hope to strict requirements govern what data states can use to target their pandemic relief dollars .
+“ I am worried that there ’ s different standards in different states , ” said former FCC Commissioner Mike O ’ Rielly , a Republican who left the agency last year .
+He projected that assembling better data could take two years , but said state officials wo n't wait to start spending .
+“ If they ’ ve got the chance , they ’ re going to try to do it.
+” In Ohio ’ s with speed test data from a company called Ookla — showing that at least 340,000 households in eastern Ohio had no home broadband connections .
+( In contrast , the FCC estimates that at most 328,000 households in the entire state have connections too slow to fit its definition of broadband . )
+But Ookla data is also far from authoritative , and Isherwood said the burden shouldn ’ t be on communities to figure out the scope of the problem .
+The 200 or so residents of the county ’ s rural from Frontier Communications that Mayor Gary Goosman said falls well below the federal broadband threshold .
+When the Amesville library set up a Wi-Fi hot spot in the town center , people sat in their cars downloading homework assignments and filing unemployment paperwork , the mayor recalled .
+Frontier spokesperson Erin Kurtz said the ISP , which emerged from bankruptcy in April , is “ investing heavily to build fiber and bring lightning-fast broadband to communities across the country , many in underserved areas.
+” But for now , the mayor said , — difficult for many in the high-poverty area to afford .
+“ Erroneous ” coverage estimates have prevented him from obtaining federal funding in years past , he added .
+“ We ’ ve always known we were behind the curve in terms of speeds and availability , but that really jumped in the last year , ” Goosman said .
+“ In Amesville , cellphones don ’ t work.
+” And then came 2021 , dangling its broadband dollars .
+More than 56 percent of Athens County voted for Biden , who repeatedly invoked its importance this year .
+Even the telecom industry , which is set to reap some of these subsidies , fears charging ahead without adequate information .
+One of its main fears is “ overbuilding ” — the risk that inaccurate coverage data could lead to the government subsidizing new internet providers that compete with established carriers .
+“ With billions of dollars flowing before the FCC ’ s broadband data collection is complete , yes , there is anxiety about that — that the dollars will not be targeted to Halley , who represents ISPs like AT & T and Verizon as general counsel for the trade group USTelecom .
+“ There ’ s no doubt that spending right now is based on incomplete data , and that ’ s not ideal.
+” The telecom industry is a big reason the existing data is so spotty , however , given the wariness among ISPs to share proprietary information .
+The nation ’ s central repository of broadband maps has been hosted since 2018 at the FCC , a telecom regulator that has limited the FCC uses for those maps has drawn widespread criticism for overestimating coverage : Under the forms that the carriers submit to the agency , if one household has internet , its entire census block is considered covered .
+Nationally , this means we still don ’ t know how many people need assistance , more than a decade after the federal government began releasing national broadband maps .
+The official FCC figures say more than 14 million households nationwide are unconnected , lacking at-home broadband speeds of at least 25 megabits per second for uploads .
+( The FCC ’ s current Democratic leadership says this speed definition should be much higher ) .
+But the true figure is closer to 42 million households , according to BroadbandNow , a consumer-centric website launched in 2014 that works with ISPs to get more detailed data about pricing and coverage , while allowing providers to advertise on its platform .
+Others have also jumped in to supplement the FCC maps .
+Microsoft , Ookla and M-Lab have sketched out coverage estimates using speed tests and other methods sense , as has analysis from the Pew Research Center .
+The Biden administration assembled these varying datasets into an interactive map this summer while pitching its infrastructure plan , allowing people to compare coverage information with other factors like poverty level .
+But the tool doesn ’ t contain any authoritative new data , even if it showcases how sharply the existing estimates vary .
+The Treasury Department said it intentionally lets communities decide how to parse out the money .
+Many states simply use the old FCC maps as a baseline organization Next Century Cities reported in May .
+Although some advocates welcome the leeway — saying local leaders are best positioned to identify broadband shortfalls — others worry about the political risks of sloppy spending .
+“ I have a real fear that there are going to be certain communities that are going to be spending money on things with unvetted advice , ” said Joshua Edmonds , the director of digital inclusion for Detroit , during a Knight Foundation event this summer .
+In an interview , he urged communities to create “ Local communities need to be stepping up .
+… That ’ s not happening .
+Instead what we ’ re getting is this war over datasets , and you know this — whoever has the best datasets calls the shots.
+” One hard truth is that Washington mostly succeeded at creating a plan to fix its mapping woes — but did so too late to direct 2021 ’ s flood of money .
+After years of frustration , Congress passed bipartisan legislation in February 2020 requiring the FCC to collect more accurate mapping pilot by USTelecom .
+Implementing this law happened in slow motion over the nearly two years since .
+The FCC finally got $ 98 million for the effort last December .
+A month later , Rosenworcel became acting chair and got to work — assembling a data task force , hiring an IT vendor , asking consumers and industry for feedback , and offering an initial wireless coverage map with data from the largest providers .
+But many people still don ’ t expect authoritative maps until well into 2022 , something .
+Experts say obtaining detailed coverage data could be a prerequisite for cracking the digital divide — and that better data , as in Georgia , could mean more effective lobbying for aid .
+“ Each state is going to want to position themselves so they can maximize the amount of dollars they can get , ” said Eric Frank , chief executive of a company called LightBox , which transformed its expertise in crunching reams of real estate data to help build Georgia ’ s granular internet maps .
+Frank insists nationwide simple scaling up of what the company already did — and allow government officials to easily offer customized versions with “ data layers ” to boost analyses .
+LightBox is eager for a larger role in that effort : This month , the company challenged the FCC 's decision to award a nearly $ 45 million mapping contract to a rival company , a dispute that could mean months of delay .
+Rosenworcel has suggested Congress may need to intervene to speed the process .
+Trying to make do In disconnected areas such the sense of urgency tends to outweigh any squabbling over targeting investments .
+Liz Shaw , who lives just outside Amesville , reached her breaking point four years ago , when slow , unreliable internet service foiled her attempts to order items for the baby shower of her first grandchild .
+The page “ just kept spinning out , ” she said .
+“ I kept getting the blue wheel of death.
+” “ I just slumped into the kitchen floor .
+I sat there and cried for maybe 15 to 20 minutes I started cussing .
+And I felt better when I started cussing .
+I said , ‘ OK , that ’ s it , I ’ m not going to be a victim here.
+’ ” What that meant was organizing .
+Within weeks , she spearheaded a regional summit in nearby Marietta , Ohio , that lured then-FCC Commissioner Mignon Clyburn .
+Attendees told unsettling stories , for example the soccer coach who collapsed on the field and died due to the inability to reach 911 in time .
+Bad cell coverage catalyzing regional organizing — but even years later , the connectivity woes remain .
+Shaw teaches music , and the only way she can obtain internet service to conduct her virtual private lessons is through a pricey Wi-Fi hot spot .
+Even that gets too slow to be practical near the end of the month , when she runs out of high-speed data .
+“ I just can ’ t afford to buy more data , ” she said .
+“ You just have to stop at some point.
+” Shaw is also ” as “ BS , ” adding that coverage is `` pretty much a math problem .
+Where is it — from the providers , because they ’ re the only ones providing it — and where is it not .
+Bingo .
+And I ’ m where it ’ s not.
+” The region has seen small improvements .
+Carol Kirk , who lives three miles from the center of Amesville , can finally receive text messages inside her home , unlike three years ago .
+Gerry Hilferty , who runs an museums , said fiber internet service is finally connecting the Windy Hills Farm where the firm operates .
+Still , Kirk complains that the DSL internet infrastructure elsewhere in the region is decaying and fails during heavy rain .
+Mice chew at exposed equipment , she said .
+Her internet goes out sporadically throughout the day .
+She can ’ t download apps at home and has to go into Amesville to do so .
+Sometimes she ’ ll leave a note complaining at the local ISP ’ s office while she ’ goes out or the internet goes out , I have to go up to the ridge and sit in my car and make that my office , ” Kirk said .

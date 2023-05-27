@@ -1,0 +1,136 @@
+Sustainable , local , organic food grown on small farms has a tremendous amount to offer .
+Unlike chemical-intensive industrial-scale agriculture , it regenerates rural communities ; it doesn ’ t pollute rivers and groundwater or create dead zones ; it can save coral reefs ; it doesn ’ t encroach on rainforests ; it preserves soil and it can restore the climate ( IAASTD , 2009 ) .
+Why do all governments not promote it ?
+For policymakers , the big obstacle to global promotion and restoration of small-scale farming ( leaving aside the lobbying power of agribusiness ) ’ t feed the world ” .
+If that claim were true , local food systems would be bound to leave people hungry and so promoting them becomes selfish , short-termist , and unethical .
+Nevertheless , this purported flaw in sustainable and local agriculture represents a curious charge because , no matter where one looks in global agriculture , food prices are low because products are in surplus .
+Often , they are in huge surplus , even in the hungriest countries .
+Farmers will tell you they are going out of these surpluses , prices are low and continuously falling .
+Indeed , declining agricultural prices are a broad trend continuing , with the odd blip , for over a century , and applying to every commodity .
+This downward trend has continued even through a recent biofuel boom designed to consume some of these surpluses ( de Gorter et al.
+, 2015 ) .
+In other words , the available data contradict the likelihood of food shortages .
+Despite the rising global population , food gluts are everywhere .
+The standard justification for turn into global food shortages comes from various mathematical models of the food system .
+These models are based on food production and other figures supplied to the UN by national governments .
+Whereas anecdotal or local evidence is necessarily suspect , these models claim to be able to definitively assess and predict the enormous , diverse , and highly complex global food system .
+The most prominent and most widely cited of these food system models is called GAPS ( Global Agriculture Perspectives System ) .
+GAPS is a model created by ( FAO ) in Rome ( Alexandratos and Bruinsma , 2012 ) .
+These models – and most often GAPS – are thus what is being cited in any quantitative discussion of future food needs .
+GAPS , for example , is the basis for the common ‘ 60 % more food needed by 2050 ’ prediction , what Britain ’ s chief scientist John Beddington called “ a perfect storm ” facing humanity .
+How reliable are these food system models ?
+In 2010 Professor Thomas Hertel of Purdue University gave the Agricultural and Applied Economics Association .
+He chose to discuss the ability of mathematical models like GAPS to predict future supplies ( this work was subsequently published as Hertel , 2011 ) .
+Hertel told his audience that those models are faulty .
+What Hertel highlighted is that economic analysis has plainly shown that food supplies respond to long-term prices .
+That is , when prices for food items increase , food production also increases .
+For example , when prices increase , it becomes more worthwhile for farmers to invest in boosting low there is little such incentive .
+Other actors in the food system behave similarly .
+Yet global food models , noted Hertel , have adopted the opposite interpretation : they assume global food supplies are insensitive to prices .
+In the firm but diplomatic tone expected of a Presidential Address , Hertel told his audience : “ I fear that much of this rich knowledge has not yet worked its way into the global models being used for long run analysis of climate , biofuels and agricultural land use……it is not clear the kind of long run sustainability analysis envisioned here.
+” This is rather important .
+Since the whole point of these models is long-term prediction , if global food models underestimate the ability of food systems to adjust to higher demand , they will tend to predict a crisis even when there isn ’ t one .
+Like all mathematical models , GAPS and other food system models incorporate numerous assumptions .
+These assumptions are typically shared across related models , which is why they tend to give similar answers .
+The reliability on the validity of shared assumptions like the one Hertel focused on .
+Hertel ’ s analysis therefore prompts two important questions .
+The first is this : If GAPS contains an assumption that contradicts the collective wisdom of conventional agricultural economics , what other questionable assumptions hide in global food models ?
+Surprisingly though , given the stakes , scarcely any attention has been devoted to rigorous independent testing of these crucial assumptions ( Scrieciu , 2007 ; Reilly and Willenbockel , 2010 ; Wise , 2013 ; Lappé and Collins , this : Is it significant that the error identified by Hertel will tend to generate predictions that are unnecessarily alarmist ?
+In a new peer-reviewed paper , The Myth of a Food Crisis , I have critiqued FAO ’ s GAPS – and by extension all similar food system models – at the level of these , often unstated , assumptions ( Latham , 2021 ) .
+The Myth of a Food Crisis identifies four assumptions in food system models that are especially problematic since they have major effects on the reliability of are : 1 ) That biofuels are driven by “ demand ” .
+As the paper shows , biofuels are incorporated into GAPS on the demand side of equations .
+However , biofuels derive from lobbying efforts .
+They exist to solve the problem of agricultural oversupply ( Baines , 2015 ) .
+Since biofuels contribute little or nothing to sustainability , land used for them is available to feed populations if needed .
+This potential availability ( e.g .
+40 % of US corn is used for corn ethanol ) makes it as an unavoidable demand on production .
+2 ) That current agricultural production systems are optimized for productivity .
+As the paper also shows , agricultural systems are typically not optimised to maximise calories or nutrients .
+Usually , they optimise profits ( or sometimes subsidies ) , with very different results .
+For this reason , practically all agricultural systems could produce many more nutrients per acre at no ecological cost if desired .
+3 ) That crop “ yield potentials ” have been correctly estimated .
+Using the example of rice , even under sub-optimal conditions , achieve yields far in excess of those considered possible by GAPS .
+Thus the yield ceilings assumed by GAPS are far too low for rice and probably other crops too .
+Therefore GAPS grossly underestimates agricultural potential .
+4 ) That annual global food production is approximately equal to global food consumption .
+As the paper also shows , a significant proportion of annual global production ends up in storage where it degrades and is disposed of without ever being counted by GAPS .
+There is thus .
+The specific ways in which these four assumptions are incorporated into GAPS and other models produces one of two effects .
+Each causes GAPS to either underestimate global food supply ( now and in the future ) , or to overestimate global food demand ( now and in the future ) .
+Thus GAPS and other models underestimate supply and exaggerate demand .
+The cumulative effect is dramatic .
+Using peer-reviewed data , the discrepancy between food availability estimated by GAPS and the underlying supply is calculated in the paper .
+Such omit approximately enough food annually to feed 12.5 billion persons .
+That is a lot of food , but it does perfectly explain why the models are so discrepant with policymakers ’ and farmers ’ consistent experiences of the food system .
+The consequences of this analysis are very significant on a number of fronts .
+There is no global shortage of food .
+Even under any plausible future population scenario or potential increases in wealth , the current global glut will not disappear due to elevated demand .
+Among the many implications being equal , global commodity prices will continue to decline .
+The potential caveat to this is climate chaos .
+Climate consequences are not factored into this analysis .
+However , for people who think that industrial agriculture is the solution to that problem , it is worth recalling that industrialised food systems are the leading emitter of carbon dioxide .
+Industrialising food production is therefore not the solution to climate change –­ it is the problem .
+Another significant implication of this analysis is to remove the justification for the ( frequently ‘ sustainable intensification ’ measures featuring intensive use of pesticides , GMOs , and gene edited organisms to boost food production ( Wilson , 2021 ) .
+What is needed to save rainforests and other habitats from agricultural expansion is instead to reduce the subsidies and incentives that are responsible for overproduction and unsustainable practices ( Capellesso et al.
+, 2016 ) .
+In this way , harmful agricultural policies can be replaced by ones guided by criteria such as ecological sustainability and cultural appropriateness .
+A second implication stems from asking : levels , why are critics largely absent ?
+Thomas Hertel ’ s critique should have rung alarm bells .
+The short answer is that the philanthropic and academic sectors in agriculture and development are corrupt .
+The form this corruption takes is not illegality – rather that , with important exceptions , these sectors do not serve the public interest , but their own interests .
+A good example is the FAO , which created GAPS .
+The primary mandate of FAO is to enable food production – its motto is Fiat Panis food crisis there would hardly be a need for an FAO .
+Many philanthropic and academic institutions are equally conflicted .
+It is no accident that all the critics mentioned above are relative or complete outsiders .
+Too many participants in the food system depend on a crisis narrative .
+But the biggest factor of all in promotion of the crisis narrative is agribusiness .
+Agribusiness is the entity most threatened by its exposure .
+It is agribusiness that perpetuates the myth most actively and makes best use of it by endlessly championing starvation .
+It is agribusiness that most aggressively alleges that all other forms of agriculture are inadequate ( Peekhaus , 2010 ) .
+This Malthusian spectre is a good story , it ’ s had a tremendous run , but it ’ s just not true .
+By exposing it , we can free up agriculture to work for everyone .
+Alexandratos , N. , & Bruinsma , J .
+( 2012 ) .
+World agriculture : Towards 2030/2050 .
+ESA working paper no .
+12-03 Rome : FAO .
+Baines , J feed and the corporate restructuring of the food regime .
+The Journal of Peasant Studies , 42 ( 2 ) , 295–321 .
+Capellesso , A. J. , Cazella , A .
+A. , Schmitt Filho , A. L. , Farley , J. , & Martins , D. A .
+( 2016 ) .
+Economic and environmental impacts of production intensification in agriculture : comparing transgenic , conventional , and agroecological maize crops .
+Agroecology and Sustainable Food Systems , 40 ( 3 ) , 215-236. de Gorter , H. , Drabik , ( 2015 ) .
+The economics of biofuel policies : Impacts on price volatility in grain and oilseed markets .
+( Palgrave studies in agricultural economics and food policy ) .
+Basingstoke , UK : Palgrave Macmillan .
+Hertel , T. W. ( 2011 ) .
+The global supply and demand for agricultural land in 2050 : A perfect storm in the making ?
+American Journal of Agricultural Economics , 93 , 259–275 .
+Lappé , F. M. , & Collins , J .
+( 2015 ) .
+World hunger : Ten myths .
+( 2021 ) .
+The myth of a food crisis .
+In Rethinking Food and Agriculture ( pp .
+93-111 ) .
+Woodhead Publishing .
+Peekhaus , W. ( 2010 ) .
+Monsanto discovers new social media .
+International Journal of Communication , 4 , 955–976 .
+Reilly , M. , & Willenbockel , D. ( 2010 ) .
+Managing uncertainty : A review of food system scenario analysis and modelling .
+Philosophical Transactions of the Royal Society , 365 , 3049–3063 .
+Scrieciu , S. ( 2007 ) .
+Commentary : equilibrium models as a single integrated modelling framework for sustainability impact assessment .
+A critical note on Böhringer and Löschel 2006 .
+Ecological Economics , 60 , 678–684 .
+Wilson , A. K. ( 2021 ) .
+Will gene-edited and other GM crops fail sustainable food systems ?
+In Rethinking Food and Agriculture ( pp .
+247-284 ) .
+Woodhead Publishing .
+Wise , T. ( 2013 ) .
+Can we feed the world in 2050 ?
+A scoping paper to assess the evidence .
+In Global development and environment institute working paper was useful to you please consider sharing it with your networks .

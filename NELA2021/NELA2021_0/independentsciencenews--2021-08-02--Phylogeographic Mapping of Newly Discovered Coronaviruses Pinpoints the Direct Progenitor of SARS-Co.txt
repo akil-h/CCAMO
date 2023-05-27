@@ -1,0 +1,547 @@
+Back in March , the World Health Organisation ’ s report on the origin of the COVID-19 pandemic coronavirus confirmed something that had long been widely presumed .
+Since the pandemic began , there has been an enormous virus hunt in China .
+The purpose of this hunt has been to find the viruses intermediate between SARS-CoV-2 and its coronavirus relatives found in bats ( Luk et al.
+, 2019 ) .
+The closest known wild relative of SARS-CoV-2 was found by Zheng-li Shi of the Wuhan Institute of Virology ( WIV ) in a bat in central Yunnan province RaTG13 , is 96.1 % similar to SARS-CoV-2 .
+This genetic difference ( 3.9 % ) corresponds to about 1150 nucleotide differences between the two viruses ; i.e .
+it is quite a large gap .
+Finding intermediate viruses would solve two puzzles .
+One is geographical : By what means or in what host animal ( s ) did the virus get to Wuhan ?
+The second is genetic : what viruses were the evolutionary intermediates between RaTG13 and SARS-CoV-2 ?
+The targets of this hunt have therefore been bats but also civets or mink , either one of which might have been the vector that brought COVID-19 to Wuhan .
+Even partial evidence for such a trail of viral intermediates would support a likely zoonotic origin of SARS-CoV-2 .
+To this end , according to that WHO report , scientists across China have sampled and tested over 80,000 animals , including 1,100 bats just in Hubei province , of which Wuhan is the capital .
+Yet beyond a few tantalising discoveries , which are discussed below , the search has been unsuccessful .
+The has been scantly reported by the media and sometimes its significance has been dismissed entirely .
+Thus , the editor of Nature journal recently told the Times Higher Education Supplement that there was an “ absence of new evidence ” on the COVID-19 origin question .
+Only a handful of mass media articles and none in the scientific literature have thus done proper justice to the negative results of the sampling in China .
+Exceptions are “ No one can find the animal that gave people covid-19 “ in the MIT Technology Review in Newsweek that expertly articulated the essential points .
+Parallel to the hunt inside China , a broader international one has taken place across neighbouring Asian countries .
+This hunt has mainly focussed on testing bats , which are the reservoir hosts of most coronaviruses .
+Unlike most of the Chinese search , its results have been reported in the scientific literature ( e.g .
+Lee et al.
+, 2020 ) .
+As a consequence , in 2021 alone , a series of very near relatives of SARS-CoV-2 have been published .
+These , 2021 ) , Cambodia ( Hul et al.
+, 2021 ) , Thailand ( Wacharapluesadee et al.
+, 2021 ) , and Yunnan province , China ( Zhou et al.
+, 2021 ; Li L. et al.
+, 2021 ) .
+The findings of this international search have likewise been poorly covered by the media ; either ignored , or , much more rarely , misrepresented ( Lytras et al.
+, 2021 ) .
+The purpose of this article is therefore to straighten the record .
+It shows that the positive and of profound importance for understanding the origin of SARS-CoV-2 .
+Since the consequences of the Chinese search are fairly simple and better known , this article focuses mainly on analysing and interpreting the published results of the international virus search .
+In this article we reveal that the new coronavirus genomes from Asia contain sufficient information to narrow down the geographical source of the direct bat progenitor of SARS-CoV-2 to a quite small region , the south-central part of the Chinese province of Yunnan .
+In other words , this analysis identifies with where a bat virus that ultimately became SARS-CoV-2 left its bat reservoir host , initiating the chain of events that led to the COVID-19 pandemic .
+The analysis does not specify the precise nature of this initiation event .
+The jump out of bats may have been into an intermediate host ( that later went on to infect a human ) , or it may have been a jump directly into a human ; or even the virus may have been procured as part of a research project .
+Nevertheless , such a the jump from bats represents a major step forward .
+Its implications for understanding the origin of SARS-CoV-2 are profound because the requirement for a Yunnan connection markedly constrains origin theories .
+For example , advocates of the imported frozen food theory favoured in China now have to explain how imported food came to Wuhan carrying a virus from Yunnan ( Zhou and Shi , 2021 ) .
+Likewise , ideas that have circulated about possible European origins of the virus must now explain how a European patient zero could have acquired that the bioweapon theory of Dr Li-Meng Yan is ruled out by the newly discovered viruses discussed here .
+But perhaps the greatest significance of this finding will turn out to be that the region of Yunnan indicated as the likely geographic origin is centred on a place called the Mojiang mine .
+This mine is already well-known to COVID-19 origins investigators .
+The Mojiang mine was the site , in April 2012 , of an apparent coronavirus outbreak .
+This outbreak affected six miners and killed three of them ( Rahalkar and Bahulikar became ill were shovelling bat guano , implicating the likelihood of infection by a bat virus .
+The Mojiang mine is also where RaTG13 , the closest known natural relative of SARS-CoV-2 was found by Zheng-li Shi of the WIV .
+RaTG13 was collected during sampling efforts to determine the cause of the mine outbreak .
+For these and other reasons , the mine is already the focus of lab origin theories .
+It is highly suggestive , to say the least , for this new evidence to point so precisely to this bat progenitor .
+The finding is thus rich with irony as well as importance .
+The Chinese and international searches for SARS-CoV-2-related coronaviruses were supposed to reveal a zoonotic origin and refute a lab leak ( Anderson et al.
+, 2020 ) .
+Instead , they have achieved the almost direct opposite .
+Our assessment of the widespread mischaracterisation of all this new evidence–in the media and the scientific literature–is therefore that most scientists and most media still resist evidence when it challenges a zoonotic origin or supports a lab leak .
+These : Intensive search in China yields no evidence for intermediate hosts Based on the examples of the previous coronavirus outbreaks , the first SARS ( hereafter , SARS One ) and MERS , an outbreak trail leading to SARS-CoV-2 ought to begin with a reservoir host , in this case presumably bats ( Wang et al.
+, 2006 ; Corman et al.
+, 2014 ; Hu et al.
+, 2017 ; Luk et al.
+, 2019 ) .
+The virus reached humans because an intermediate animal capable of amplifying the virus ( presumably the virus from bats .
+This intermediate animal host with its Intermediate viruses should be a species found in close proximity to humans at or near the outbreak site .
+Thus , a pool of viruses very highly related ( ≈99.9 % similar ) to SARS-CoV-2 should be findable in whatever animal species it was that transmitted the virus to humans .
+Most likely , these intermediates will be domesticated or farmed or smuggled animals ( Opriessnig and Huang , 2020 ) .
+Thus , in the case of SARS One , Himalayan were the likely amplifying species ; in the case of MERS , domesticated dromedaries were certainly the source ( Guan et al.
+, 2003 ; Azhar et al.
+, 2014 ) .
+However , for SARS-CoV-2 , no comparable pool of viruses in intermediate hosts has yet been found .
+While the pandemic was still young , this absence was unremarkable .
+But , given the extent of sampling in China , the lack of evidence for any part of a transmission chain from bats in Yunnan to humans in Wuhan now represents origin .
+This lack is frequently dismissed by comparing how long it took to find the origins of SARS One ( 2002-4 ) and MERS ( 2011-2012 ) .
+But since those outbreaks a lot of resources have been devoted , in China and elsewhere , to sampling and identifying viruses , particularly coronaviruses ( e.g .
+Latinne et al.
+, 2020 ) .
+There have consequently been vast improvements in our understanding of virus ecology ( for example , we now know about bat reservoirs ) .
+At the same time there leaps in genome sequencing ( especially Next Generation Sequencing ) , in database technology , in virus taxonomy , and in virus isolation methods .
+Consequently , the current failure to find a zoonotic proximal origin profoundly challenges the notion that SARS-CoV-2 has a natural animal source .
+It is no credit to the media or the scientific community that this finding has received so little attention .
+Conclusion two : The international search discovers a SARS-CoV-2 lineage with a pronounced geographical distribution The second major finding is even more compelling but so derives primarily from the fruits of the international search for bats infected with coronaviruses .
+This international search has yielded viral genome sequences that are close relatives of SARS-CoV-2 .
+All are from various parts of Asia ( Hu et al.
+, 2018 ; Zhou P. et al.
+, 2020 ; Zhou H. et al.
+, 2020 ; Hul et al.
+, 2021 ; Wacharapluesadee et al.
+, 2021 ; Murakami et al.
+, 2021 ; Zhou et al.
+, 2021 ; Li L. et al.
+, 2021 ) .
+These genomes , few from pangolins ) , represent the closest relatives of SARS-CoV-2 known from nature .
+All are between 79 % and 96.1 % similar to SARS-CoV-2 .
+Virtually all of these viruses were unknown before the pandemic began and some are even now published only as scientific preprints .
+Some are from newly sampled bat populations ( e.g .
+Wacharapluesadee et al.
+, 2021 ; Zhou et al.
+, 2021 ) .
+Others come from freezer searches for old untested samples ( e.g .
+Murakami et al.
+, 2021 ) .
+One is ignored sequence information from historical samples ( Li L. et al.
+, 2021 ) .
+These twelve known closest relatives of SARS-CoV-2 are listed in Table 1 below .
+In date order of publication , Table 1 specifies their viral names , their country or province of origin , the genetic similarity of their whole genomes to SARS-CoV-2 ( in % ) , the distance of their sampling location from the Mojiang mine and the species they were sampled from .
+The Mojiang mine , which is in central Yunnan , was selected it is the location where the nearest naturally occurring relative of SARS-CoV-2 , RaTG13 , was found , in 2013 by Zheng-li Shi ( Zhou P. et al.
+, 2020 ) .
+The coordinates for the Mojiang mine used here ( N 23°10 ’ 36 E 101°21 ’ 28 ” ) are from Canping Huang ’ s 2016 PhD thesis since those supplied by Zheng-li Shi ( N 23°3 ’ 27073″ , E 101°37 ’ 16074″ ) in Table S1 of Guo et al.
+, 2021 are clearly incorrect .
+It should also of this analysis , the viruses called YN04/05/08 are treated here as one single virus .
+This consolidation is merited because they are virtually identical in genome sequence and were found at the same location ( Zhou et al.
+, 2021 ) .
+The same applies to the viruses ShSTT200 and ShSTT182 which are referred to here just as ShSTT200 ( Hul et al.
+, 2021 ) .
+Thanks mainly to these newfound genome sequences , it is now evident that SARS-CoV-2 , the pandemic-associated human virus , is just one member of seen in the phylogenetic tree shown in Figure 1 below .
+This lineage has been called the SARS-CoV-2-related lineage ( and independently the ‘ nCoV ’ lineage by Lytras et al.
+, 2021 ) ( Guo et al.
+, 2021 ) .
+Thus , as shown in figure 1 , within the Sarbecoviruses are three lineages .
+SARS One and its near relatives are at the top ( highlighted in pink ) .
+At the bottom is a novel lineage ( containing RaTG15 ) very recently reported in a preprint by Guo et , highlighted in blue , is the SARS-CoV-2 lineage that is the focus of this analysis .
+The implication of the existence of all such phylogenetic lineages is that the viruses within them have ( for unknown reasons ) recombined more-or-less readily with each other , but mostly not with viruses from other lineages ( Boni et al.
+, 2020 ) .
+Otherwise , the lineages would have merged .
+( We write ‘ mostly ’ because PrC31 , ZXC21 and ZC45 are partial exceptions to this rule , having segments derived from of the SARS-CoV-2 lineage are reproductively ( i.e.
+, genetically ) isolated from the other two lineages .
+This understanding is key to the analysis below because it means the SARS-CoV-2 lineage can be treated as a distinct group whose members are evolving independently of the other lineages .
+By treating this lineage separately , the sampling location and sequence of each virus can be analysed to answer a question that is crucial to the origin mystery .
+Where in the world did SARS-CoV-2 come from ?
+In an interview given just after , Peter Ben Embarek , leader of the WHO origins investigation team , expressed the following thought to an interviewer : “ [ H ] aving found other relatively close virus strains to SARS-CoV-2 in the region also in South East Asia where these bats live is a strong indication that ’ s where the source is ” South East Asia is big place .
+But Ben Embarek ’ s statement suggests how one can logically narrow down the possible origins of SARS-CoV-2 .
+In fact , a more precise analysis than this between the Wuhan Institute of Virology ( WIV ) and the EcoHealth Alliance used hundreds of partial viral sequences from China , most of them new to science , to map the geographical origin of SARS-CoV-2 more precisely ( Latinne et al.
+, 2020 ) .
+The authors concluded : “ [ W ] e found that SARS-CoV-2 is likely derived from a clade of viruses originating in horseshoe bats ( Rhinolophus spp. )
+.
+The geographic location of this origin appears to be Yunnan province ” ( Latinne et al.
+, 2020 here to a lineage ] .
+Relatively little attention was paid at the time to this conclusion .
+This is largely because the authors provided two substantial caveats .
+The first was that viruses from outside China were not included in their study .
+The second caveat was that their analysis used only a small fragment ( 440 nucleotides ) of the virus genome ( for most of their samples this was the only sequence information available ) .
+A complete coronavirus genome is approximately 30,000 nucleotides .
+Because recombination between coronaviruses is might reasonably be expected to give different results .
+However , due to the new virus discoveries ( listed in Table 1 ) , these caveats no longer apply .
+For the SARS-CoV-2 lineage one can therefore re-do the analysis using complete genomes for all currently identified viruses in the SARS-CoV-2 lineage for which precise geographic location data is available .
+None of the researchers who published the novel SARS-CoV-2 lineage viruses in Table 1 performed such an analysis ( nor did Lytras et al.
+, 2021 , who recently reviewed the evolutionary , such an analysis is simple to do .
+First , though , it requires excluding viruses whose sampling location is uncertain .
+Hence , those virus sequences extracted from smuggled pangolins ( P4L and MP789 ) are not included in this geographic analysis .
+This is because a virus found in a pangolin smuggled into China might have originated from almost anywhere in SE Asia .
+The other provenance question relates to PrC31 .
+According to the preprint describing it , PrC31 is from “ Yunnan ” ( Li L.et al.
+, for a more precise location but did not obtain one : However , according to the NGDC genome database , the accession called PrC31 is from Pu ’ er City .
+This matches the initials ( which are not explained in the article ) .
+Pu ’ er City is a town 56 km ( in a straight line ) from the Mojiang mine .
+Pu ’ er city , however , is also the name of an administrative district that encompasses the mine .
+The furthest boundary of this district from the 250 km marks the maximum and 0 km the minimum presumed distance to the sampling site of PrC31 .
+Given this uncertainty we decided to omit PrC31 from the distance plot ( Figure 2 below ) .
+However , PrC31 is important since , over certain parts of its genome , it is the closest known virus to SARS-CoV-2 .
+It will therefore be discussed below , where appropriate , as will the pangolin genomes .
+After excluding these viruses , the results are simple to interpret .
+Table 1 allows a comparison virus to SARS-CoV-2 and the sampling location for each virus .
+The closest relative of SARS-CoV-2 ( RaTG13 , 96.1 % similar at the nucleotide level ) was found at the Mojiang mine in Yunnan Province .
+The next closest genetic relatives of SARS-CoV-2 are RmYN02 ( 93.2 % similar ) and RpYN06 ( 94.48 % similar ) .
+These two viruses were both also found in Yunnan , just 150 km away ( in a straight line ) from RaTG13 .
+The next two closest relatives of SARS-CoV-2 are , almost equally RacCS203 ( 91.15 % ) .
+These two viruses were discovered 1,180 km away and 1,070 km away , respectively .
+The next most distantly related ( after PrC31 which can not be pinpointed ) are ZXC21 ( 87.39 % ) and ZC45 ( 87.63 % ) .
+These were found 2,195 km away , followed by C_o319 ( 79.06 % ) from Iwate , Japan , 4,140 km away .
+There is an obvious pattern here , which is even more evident when Table 1 ( minus PrC31 and the pangolin viruses Figure 2 .
+Thus , with the sole exception of YN04/05/08 , every virus in the SARS-CoV-2 clade falls on an almost perfect straight line .
+Beginning from the discovery location of RaTG13 , the further away from the mine a virus was found , the less closely related to SARS-CoV-2 it is .
+Thus , if we knew nothing else about the origin of SARS-CoV-2 we would learn from this plot that , first , genetic variation among the bat viruses in this lineage is highly correlated with geographic location .
+Second SARS-CoV-2 came from a bat living at or near to the Mojiang mine in south-central Yunnan , China .
+In other words , the Mojiang area of Yunnan was the site of the key zoonotic leap where SARS-CoV-2 ’ s ancestor exited its bat reservoir .
+This leap may have been directly into a human .
+Alternatively , the leap may have been into an intermediate host .
+The third possibility is that the leap was assisted by scientists collecting or researching bat viruses .
+These findings can also be displayed in map location of all the viruses plotted in Figure 2 .
+The only outlier in this analysis is YN04/05/08 .
+Its presence in Yunnan can presumably be explained as a less related virus that migrated back towards Yunnan .
+An alternative possibility is that YN04/05/08 is not recombining with the other viruses in the lineage and is in the process of forming a new lineage .
+This exception does not refute the overall analysis .
+Only the discovery of a natural virus that was closely related to SARS-CoV-2 but that was found far away show that the progenitor of SARS-CoV-2 might also have originated far from Mojiang .
+To date , none has been found .
+Combining genome sequences with map locations is an established practice known as phylogeography and there are strong precedents ( in addition to Latinne et al , 2020 ) for studying bat coronaviruses using this methodology .
+An important example , which is highly relevant since it also involves SARS-related coronaviruses with very similar bat hosts , is a study titled “ Geographical structure of bat SARS-related coronaviruses ” ( Yu et research done by Yu Ping , a student of Zheng-li Shi ’ s .
+These authors concluded that viruses in the SARS One lineage circulated freely among the Rhinolophid ( horseshoe ) bats that are their reservoir hosts ( Bannerjee et al.
+, 2019 ) .
+This lack of host restriction meant that : “ [ S ] pace presents a greater barrier to virus diversification than host species for the evolution of bat SARSr-CoVs.
+” In other words , geographic proximity better predicted the occurrence of specific isolates than did bat host predicted that these viruses moved freely within each species of horseshoe bat and only sometimes switched between them , and thus viral genetic variation would closely track bat species distributions , it seems instead that this lineage of coronaviruses easily switched between the different species of horseshoe bats that are their hosts .
+Largely unfettered movement between hosts means that , whenever new virus variants arise or new recombinant genomes arise , these can easily spread within one cave or one roosting site to other species ( of horseshoe bat ) .
+They and sites .
+Presumably , their bat hosts have life histories or specific behaviors , such as flight path routines or infrequent switching of roosting sites that can explain this limited viral movement .
+The relevant consequence of this is that , within a lineage , virus location predicts the degree of similarity to other isolates .
+Yu Ping ’ s finding is consistent with a landmark study of SARS-related coronaviruses published by Zheng-li Shi ’ s lab at around the same time ( Hu et al.
+, 2017 ) .
+While at the applicability of phylogeographic approaches for these viruses , it turns out they are more likely to be the exception that proves the rule .
+In 2017 Zheng-li Shi ’ s group reported finding , in one single location , multiple strains of SARS-related coronaviruses with ( between them ) the highest known genetic similarity to SARS One , the virus that caused the 2002-04 outbreak ( Hu et al.
+, 2017 ) .
+The site was a cave close to Kunming , capital of Yunnan province .
+The authors reached two major bat progenitor of SARS One arose through recombination among precursors of these viruses , 2 ) that Yunnan was “ likely to be the geographical source ” of SARS One .
+“ SARSr-CoV evolution is strongly correlated with their geographical origin , but not host species.
+” ( Hu et al.
+, 2017 ) As the authors acknowledged , this generated what was subsequently termed a ‘ mismatch ’ ( Luk et al.
+, 2019 ) .
+The puzzle consisted of the fact that the 2002 SARS One outbreak commenced in Guangzhou , jumped from civets to humans ) .
+Guangzhou is 1,200 km south east of the cave near Kunming where the spillover to humans would have been predicted from the phylogeographic evidence alone .
+According to Zheng-li Shi , in comments made at the time to a Chinese online newspaper , this mystery can be resolved : “ The Paper : Is the civet being wronged ?
+Shi Zhengli : Not wronged .
+It is a fact that it spreads the SARS virus , it is the intermediate host , and bats are the under Kunming , Yunnan .
+I checked the information at that time .
+In 2003 , there was a civet breeding farm in Kunming , but there is no more now .
+At that time , the country ’ s civet cats were sold in Guangdong , mainly for food.
+” [ Google translate ] In other words , Zheng-li Shi had a ready explanation in 2017 ( which is not mentioned in Hu et al.
+, 2017 ) for how SARS One moved from Kunming , Yunnan , to the outbreak epicentre which have long been considered the likely intermediary host for SARS One ( Wang et al.
+, 2006 ) .
+Presumably , civets being farmed in Kunming became infected via contact with bats .
+Subsequently , ones infected with the direct progenitor of SARS One were then transported to Guangdong .
+The example of SARS One suggests two things .
+First , that it is indeed practicable and productive to track bat coronavirus reservoirs down to the microgeographical level of a few kilometres .
+Thus , it would not be surprising , since lineage share the same host species ( Rhinolophus bats ) , and these bats rarely fly far afield ( Lau et al.
+, 2010 ) , if the SARS-CoV-2 lineage could be similarly tracked .
+Second , the successful mapping of SARS One and the strong geographical associations often noted in the virology literature for similar bat coronaviruses ( see Latinne at al.
+, 2020 and also Fig .
+3 in Boni et al.
+, 2020 ) , make it puzzling that coronavirologists have not already analysed SARS-CoV-2 and its newfound relatives in provenance of its genome subparts This analysis has so far established that genetic relatedness among the SARS-CoV-2 lineage of coronaviruses in their bat reservoir is strongly correlated with sampling location .
+Such a correlation allows viral genome sequence alone to be used to find the geographic source of any bat virus in the lineage if that is not already known .
+Applied to SARS-CoV-2 this reasoning locates its last bat ancestor to at or near the Mojiang mine .
+This finding is considerably more than a simple reformulation of the idea that the important or the conclusion of Latinne et al.
+, 2020 , that SARS-CoV-2 might have come from Yunnan .
+This phylogeographic analysis greatly strengthens the weight and precision of this association .
+By showing that the highest related genomes are all nearby and only less related ones far away , the association of the mine with SARS-CoV-2 is not a happenstance but part of a general phylogeographic pattern among the SARS-CoV-2 lineage .
+This pattern makes it highly probable that the direct bat precursor virus of SARS-CoV-2 came from , at most , Mojiang mine , with the mine itself being the epicentre of the probability gradient , i.e .
+the most likely single spot .
+The approach used above correlated whole genomes with location .
+A variant of this method is to take into account the fact that different sections of the SARS-CoV-2 genome have independent evolutionary histories due to recombination between viruses ( e.g.
+, Boni et al.
+, 2020 ; Lytras et al.
+, 2021 ) .
+Dividing up the evolution of the SARS-CoV-2 genome and its related coronaviruses into these independently evolving to determining its origin .
+However , there are trade-offs .
+Breaking down the genome requires making assumptions about historic recombination breakpoints , and these estimates can introduce errors of their own .
+What happens when one does delve down ?
+If one compares the genome of SARS-CoV-2 with the other members of the SARS-CoV-2 lineage ( including PrC31 and the pangolin genomes ) by creating a similarity plot ( this one generated by Twitter user Babarlelephant ) , an important point becomes immediately clear .
+None of the viruses currently identified SARS-CoV-2 , not even RaTG13 ( even though RaTG13 is by a considerable way the closest in overall percent similarity ) .
+As the similarity plot shows ( by finding the highest line on the plot ) , some regions of SARS-CoV-2 are clearly genetically closer to RmYN02 ( the light blue line ) than to RaTG13 ( the red line ) , while for other regions the closest to SARS-CoV-2 is RpYN06 ( the black line ) .
+Four separate parts in ORF1 , meanwhile , are closest to PrC31 ( the segment ( including the crucial receptor binding domain ( RBD ) is closest to the Guangdong pangolin genome ( MP789 ) while another very short segment is closest to RacCS203 .
+The similarity to SARS-CoV-2 shown by these latter two segments , however , should be treated with caution .
+They are short enough that their apparent close relatedness may have arisen through chance ( i.e .
+they are potential examples of convergent evolution ) and not through having a common ancestor .
+The key overall point to be learned from the plot of the genome of SARS-CoV-2 , the closest known genetic sequence is present either in RmYN02 , RpYN06 , PrC31 , or RaTG13 .
+These four viruses are thus the closest relatives of SARS-CoV-2 , depending on which part of the genome is examined .
+This makes SARS-CoV-2 a recombinant whose genome is , effectively , a synthesis of each of these different bat viruses .
+Given that these four viruses are all from the same limited region of central-southern Yunnan this is , if anything , a still more convincing demonstration than that this area is the source of SARS-CoV-2 .
+This discussion has so far taken a simple mathematical approach that omits a crucial aspect of the COVID-19 emergence story–the nature of coronaviral zoonoses .
+A zoonotic emergence of a bat coronavirus into humans requires something unusual .
+Most bat coronaviruses do not infect humans or human cells because they lack a spike protein capable of binding human ACE2 ( or , like MERS , another human receptor ) ( Hu et al.
+, 2017 ) .
+The spike protein , therefore , as a special role in triggering emergence ( Becker et al.
+, 2008 ; Ge at al.
+, 2013 ) .
+In fact , in 2014 , Zheng-li Shi and Peter Daszak were awarded a US NIH grant to test whether “ S ( pike ) protein sequences predict spillover potential ” as measured by their ability to bind human ACE2 .
+Their prediction was that spike binding alone predicts emergence , a suggestion originally proposed by Kuo et al .
+in 2000 .
+The inspiration for this approach was their research on the above .
+In the cave near Kunming where they found the series of viruses most closely related to SARS One , they also noted that some of these viruses , unusually for bat coronaviruses , had spike proteins that bound human ACE2 ( Ge at al.
+, 2013 ) .
+Experiments were able to show that these particular spikes enabled whatever bat virus carried them to infect human cells ( Menachery et al.
+, 2015 ) .
+Their working hypothesis became that any bat coronavirus with a human compatible spike could switch species–from the genome ( Ge et al.
+, 2013 ) .
+A human-compatible spike was both necessary and sufficient for a zoonotic leap .
+The cave near Kunming , therefore contained the nearest relatives of SARS One solely because a subset of them had the right spike to unlock human cells using their ACE2 binding ability .
+Coronaviruses containing this spike then encountered a physical route , via farmed civets , that led to human infections and ultimately the SARS One outbreak ( Hu et al.
+, 2017 ) .
+Thus , once a bind the human ACE2 , the remaining sequences followed , essentially opportunistically .
+The implication for the emergence of SARS-CoV-2 is that , whereas the provenance of each part of the SARS-CoV-2 genome is of equal phylogeographic interest , not all coronavirus genome regions are equal in other ways .
+The most important region of the genome , so far as zoonotic emergence is concerned , is the part that specifies the spike .
+Inspecting the similarity plot again we can see that the closest spike found anywhere is , by a large ; and RaTG13 , we know , was found in the Mojiang mine .
+The RaTG13 spike shares 98 % amino acid identity with SARS-CoV-2 .
+However , while some researchers have concluded that the spike of RaTG13 binds human ACE2 but only moderately well , others have concluded there is negligible binding ( Shang et al.
+, 2020 ; Wrobel et al.
+, 2020 ; Li Y. et al.
+, 2020 ; Li and Zhang 2021 ; Li P. et al.
+, 2021 ; Liu et al.
+, 2021 ; Mou et , 2021 ) .
+But what is much more important than these somewhat inconclusive results is that ( unless SARS-CoV-2 was a product of lab enhancement ) we can be fairly certain that the progenitor ( RaTG13-like ) virus which first infected a human , also bound human ACE2 , at least to some degree , and that it was this binding that enabled the spillover .
+From this premise we can reconstruct a plausible emergence pathway .
+An RaTG13-like spike , from Mojiang or nearby , led the zoonosis .
+It combined RpYN06 and PrC31 and these followed in its wake .
+Thus , by length of the total genome contributed , RmYN02 , RpYN06 , RaTG13 and PrC31 were approximately equally important to the rise of SARS-CoV-2 .
+However , from a zoonotic perspective , the spike region contributed by RaTG13 is much the most important .
+It would have catalysed the outbreak and therefore RaTG13 , or some close relation , is the best candidate for being present at the pivotal moment : the infection of patient zero .
+The implications for zoonotic Locating the bat progenitor of SARS-CoV-2 to the Mojiang area of Yunnan has major implications for understanding the origin of SARS-CoV-2 .
+First , it places substantial constraints on natural zoonotic origin possibilities .
+Zoonotic origin theories typically assume a proximal source in farmed or smuggled or wild animals .
+The analysis developed above implies , however , that any zoonotic theory must plausibly accommodate a bat jump in south-central Yunnan , much as Zheng-li Shi hypothesised for SARS One a little further north .
+For example , a widely discussed zoonotic possibility into Wuhan , e.g .
+via “ Malayan pangolins illegally imported into Guangdong province ” ( Anderson et al .
+2020 ; Lam et al.
+, 2020 ) .
+This pangolin origin possibility is still widely cited , although it has also been the subject of much scientific criticism ( Lee et al.
+, 2020 ; Lytras et al , 2021 ; Choo et al.
+, 2020 ; Frutos et al.
+, 2020 ) .
+The expectation has been that this pangolin reached Wuhan from countries like Malaysia , Cambodia , or Laos Lee et al.
+, 2020 ) .
+Our phylogeographic analysis indicates , however , that the pangolin must have acquired its virus from the bat reservoir in Yunnan and not in its country of origin or some other part of China .
+So while acquiring the virus in Yunnan does not rule out a pangolin as a proximal origin or a zoonosis per se , this analysis does constrain these possibilities very significantly .
+To choose another example , some apparent very early COVID-19 cases have been reported from Spain , Italy , however , posits that the virus did not ultimately come from Europe .
+Thirdly , a south-central Yunnan origin has implications for the suggestion of Chinese scientists that SARS-CoV-2 reached China from abroad via frozen food ( Zhou and Shi , 2021 ) .
+This idea was apparently taken seriously by WHO investigators but it seems incompatible with a central Yunnan origin .
+Even if the food came from abroad , the virus contaminating it presumably did not .
+Fourth , a zoonosis implies the existence of naturally-occurring intermediate viruses that ought to between RaTG13 and SARS-CoV-2 ( recently estimated at around 40yrs by Lytras et al.
+, 2021 and also Boni et al.
+, 2020 ) .
+This gap has been partially filled by the discoveries of RmYN02 , RpYN06 and PrC31 , which in certain genome regions are intermediate in sequence between RaTG13 and SARS-CoV-2 .
+Nevertheless , even taking these viruses into account , about two thirds of the gap in the putative zoonotic trail remains .
+These hypothetical naturally-occurring intermediates have not been discovered , it is suggested , because bat coronaviruses Andersen et al.
+, 2020 ) .
+However , a south-central Yunnan origin implies that any undersampling pertains specifically to Yunnan , since this is where all the other close relatives of SARS-CoV-2 have been found .
+Is Yunnan undersampled ?
+As we have previously summarised , numerous different virology teams extensively sampled in Yunnan , especially at the Mojiang mine , even before the pandemic struck .
+For example , Zheng-li Shi ’ s colleagues alone visited the Mojiang mine seven times in the years following the 2012 outbreak .
+At least mine looking for coronaviruses prior to the pandemic .
+By their own accounts , WIV researchers alone took thousands of samples and found hundreds of coronaviruses ( Ge et al.
+, 2016 ; Guo et al.
+, 2016 ) .
+Post-pandemic , AP documented numerous wildlife sampling research projects in China as part of what it called a “ hidden hunt for coronavirus origins ” especially in bats , including in Yunnan .
+Thus , massive undersampling at this point in time seems questionable .
+The discussion above demonstrates that pinpointing a specific the jump from bats requires zoonotic theories to be more specific and precise in terms of host species , viral intermediates , and their expected locations .
+This specificity is highly valuable .
+It should make every theory both easier to confirm or to refute .
+On the other hand , any theory that can not be adapted to include a Yunnan origin ought , henceforth , to be considered not credible .
+The implications for lab escape theories of an origin in south-central Yunnan Lab origin theories of SARS-CoV-2 also should have sequences .
+Li-Meng Yan and colleagues have proposed that SARS-CoV-2 is a deliberately released bioweapon .
+These authors proposed that the backbone of this ‘ weapon ’ was ZC45 and/or ZXC21 .
+However , because RaTG13 , RmYN02 , RpYN06 and PrC31 are , depending on the region of the genome selected , invariably closer to SARS-CoV-2 than either of ZC45 or ZXC21 , Dr Yan ’ s formulation of a bioweapon theory can be confidently ruled out .
+Three distinct categories of lab accident theory have been proposed so far .
+The infection of a researcher on a sample collecting trip .
+This worker could have infected others when they returned to Wuhan .
+From the present analysis it can be inferred that any such collecting trip would have been to south/central Yunnan .
+Consequently , it may be possible to effectively rule out this possibility if it could be shown that no virologist from Wuhan travelled to Yunnan province in mid-to-late 2019 .
+A second category of lab origin postulates that RaTG13 ( or a similar virus ) was obtained from the Mojiang mine or technology-related research purpose .
+This genetically manipulated or passaged virus then escaped ( Kaina , 2020 ; Segreto and Deigin , 2020 ; Sirotkin and Sirotkin , 2020 ; DRASTIC , 2021 ) .
+Such theories are consistent with any phylogeographic findings since any changes from known viruses can , in principle , be explained by lab manipulation or adapted to propose an alternative source of the viral backbone .
+Therefore , an origin close to Mojiang is not a major constraint .
+A much greater one is that these lab origin sequences resembling the naturally-occurring viruses RmYN02 , RpYN06 and PrC31 are found in SARS-CoV-2 .
+Presumably this explanation might be that researchers in Wuhan had access to another virus , one that combined an ORF1 region that was more similar to these sequences with an RaTG13-like spike .
+This virus was then modified , perhaps by inserting a furin cleavage site .
+The expectation would nevertheless be that this hypothetical virus came from south-central Yunnan .
+The third category of lab escape is our Mojiang Miners Passage theory .
+This is based on , mentioned above , who all became sick in 2012 whilst shovelling bat guano at the Mojiang mine ( Rahalkar and Bahulikar , 2020 ) .
+These six miners all developed Covid-19-like symptoms and were diagnosed at the time with a probable novel coronavirus .
+The theory proposes that a RaTG13-like coronavirus ( or mixture of viruses that later recombined into one ) from the mine infected the miners .
+Some of these miners were ill for almost six months .
+Our suggestion , therefore , is that the bat virus ( es a passaging-like process ) inside their bodies to become human-adapted .
+Since it is known that numerous medical samples were taken from the miners and many were sent to the Wuhan Institute of Virology , this virus may have escaped when those medical samples were used for research , perhaps to culture the virus or to manipulate it .
+We favour this theory because it explains numerous otherwise puzzling features of SARS-CoV-2 .
+These features are ( 1 ) the high improbability of a zoonotic appearance of a SARS-related coronavirus in Wuhan ; of the virus to humans ( Piplani et al.
+, 2021 ; van Dorp et al.
+, 2020 ; Zhan et al , 2020 ) ; ( 3 ) a miner ’ s passage predicts a single zoonotic jump to humans [ which fits the data on early human sequences ( Bloom , 2021 ) ] and which is inconsistent with most viral zoonoses , which typically feature multiple jumps into humans ; ( 4 ) a miner-derived virus also explains the proclivity of SARS-CoV-2 for human lungs , which is a characteristic ) the theory can also explain the extensive attempts to deny or obscure research occurring at the WIV ( see also the Zhou P. et al.
+, 2020a addendum ) .
+The Mojiang miners hypothesis even has an evolutionary explanation for the infamous furin cleavage site .
+However , none of this precludes the possibility that the miner-derived virus was also lab-altered .
+Since the theory specifically postulates that patient zero was a Mojiang miner who acquired one or more SARS-CoV-2-related viruses directly from the bats in the mine , the miners passaging lineage revealed above .
+Indeed , it is an explicit prediction of the Mojiang miner passage theory that SARS-CoV-2 is composed of viruses originating there .
+Consequently , a miner passage origin is also consistent with SARS-CoV-2 being a mosaic of RmYN02 , RpYN06 , PrC31 and RaTG13 since , as the phylogeography shows , these viruses , or their close relatives , could have been present in the mine when the miners fell ill. A miner passage is therefore not just compatible with but greatly strengthened by all the new evidence from pandemic began .
+A phylogeographic approach to the SARS-CoV-2 lineage thus provides a striking result on several fronts .
+Lab origin theories can readily account for a south/central Yunnan origin , since the Mojiang mine is already their starting point .
+But while the various lab leak theories have their differing explanations ( evolution in the miners/genetic engineering/lab passaging ) for how RaTG13 ( or similar viruses ) might have given rise to SARS-CoV-2 , a natural zoonotic origin relies on evolution in wild ( or at least semi-natural ) settings and this intermediate viruses .
+It is therefore a highly problematic state of affairs for all zoonotic theories that , 1 ) no viruses with an overrall similarity higher than RaTG13 have been found and , 2 ) that no intermediate viruses from potential intermediate hosts have been found .
+We can now conclude , however , that Yunnan is the place where it should have succeeded .
+To sample or not to sample If a bona fide closer relative of SARS-CoV-2 were found tomorrow in a bat far away from south-central Yunnan , then have to be rethought and the special significance of south-central Yunnan would stand refuted .
+One obvious approach is therefore to call for more sampling to test the association .
+Yunnan would be the logical focal point of this search .
+However , there is a clear problem with further sampling .
+It is likely that the SARS One pandemic originated from a bat virus from Yunnan that had evolved the ability to infect humans .
+The 2012 miner outbreak likewise exemplified the risks of close contact with bat coronaviruses .
+Furthermore , the case , already strong , that SARS-CoV-2 ultimately resulted from virus sampling .
+So the paradox is rather acute .
+What or who will ensure that future sampling is conducted with far greater prudence than virologists have so far mustered ?
+There is one further crucial issue .
+To date , both the Wuhan Institute of Virology and the EcoHealth Alliance ( EHA ) in New York have refused requests by Congress and others , to allow public access to their existing coronavirus samples and their viral databases .
+These may hold But if publicly-funded virologists will not share the samples they already have , and are apparently unwilling to face the conclusions public access might entail , why should anyone reward them to collect more ?
+Indeed , how can research into the origins of COVID-19 meaningfully proceed if virologists will neither share their data nor follow where it leads when they do ?
+The abject failure of the WHO and also of established science , in China and elsewhere , to genuinely investigate the origin question can thus be explained .
+The problem this article and the creative approaches of members of DRASTIC , and others , have shown , there is plenty of valuable data waiting to be brought forth .
+Rather , the obstacle is simply a deep and broad fear on the part of the scientific establishment that the trail might lead to a lab leak .
+The lack of outrage , or even concern , among the rank and file of the scientific community at the flagrant obstructionism of the WIV and the EHA demonstrates the extent of this fear as clearly problem is that academic science is enmeshed in a wider transnational Pandemic Virus Industrial Complex ( PVIC ) that has sought to suppress lab origin theories and within which the WIV and the EHA are just minor cogs .
+The important consequence of this is that outbreak origin investigations are always challenging .
+They require people who are expert but are either not conflicted or who have demonstrated their independence .
+Consequently , the best data and analysis on the origin of SARS-CoV-2 will continue to come , we predict , mainly from Acknowledgements : the authors are deeply grateful to Francisco de Asis , Babarlelephant , and the other reviewers of this article for their generous assistance and numerous helpful suggestions .
+Andersen , K. G. , Rambaut , A. , Lipkin , W. I. , Holmes , E. C. , & Garry , R. F. ( 2020 ) .
+The proximal origin of SARS-CoV-2 .
+Nature medicine , 26 ( 4 ) , 450-452 .
+Azhar , E. I. , El-Kafrawy , S. A. , Farraj , S. A. , Hassan , A.
+Hashem , A. M. , & Madani , T. A .
+( 2014 ) .
+Evidence for camel-to-human transmission of MERS coronavirus .
+New England Journal of Medicine , 370 ( 26 ) , 2499-2505 .
+Banerjee , A. , Kulcsar , K. , Misra , V. , Frieman , M. , & Mossman , K. ( 2019 ) .
+Bats and coronaviruses .
+Viruses , 11 ( 1 ) , 41 .
+Becker , M. M. , Graham , R. L. , Donaldson , E. F. , Rockx , B. , Sims , … & Denison , M. R. ( 2008 ) .
+Synthetic recombinant bat SARS-like coronavirus is infectious in cultured cells and in mice .
+Proceedings of the National Academy of Sciences , 105 ( 50 ) , 19944-19949 .
+Bloom , J. D. ( 2021 ) .
+Recovery of deleted deep sequencing data sheds more light on the early Wuhan SARS-CoV-2 epidemic .
+bioRxiv .
+Boni , M. F. , Lemey , P. , Jiang , X. , Lam , T. T. Y. , Perry , B. W. , Castoe , T. L. ( 2020 ) .
+Evolutionary origins of the SARS-CoV-2 sarbecovirus lineage responsible for the COVID-19 pandemic .
+Nature microbiology , 5 ( 11 ) , 1408-1417 .
+Choo , S. W. , Zhou , J. , Tian , X. , Zhang , S. , Qiang , S. , O ’ Brien , S. J. , … & Sitam , F. T. ( 2020 ) .
+Are pangolins scapegoats of the COVID‐19 outbreak‐CoV transmission and pathology evidence ?
+.
+Conservation Letters , 13 ( 6 ) , e12754 .
+Corman , V. M. , L. R. , Schoeman , M. C. , Preiser , W. , Drosten , C. , & Drexler , J. F. ( 2014 ) .
+Rooting the phylogenetic tree of middle East respiratory syndrome coronavirus by characterization of a conspecific virus from an African bat .
+Journal of virology , 88 ( 19 ) , 11297 .
+Segreto , R. , & Deigin , Y .
+( 2021 ) .
+The genetic structure of SARS‐CoV‐2 does not rule out a laboratory origin : SARS‐COV‐2 chimeric structure and furin cleavage site might be , 43 ( 3 ) , 2000240 .
+Frutos , R. , Serra-Cobo , J. , Chen , T. , & Devaux , C. A .
+( 2020 ) .
+COVID-19 : Time to exonerate the pangolin from the transmission of SARS-CoV-2 to humans .
+Infection , genetics and evolution , 84 , 104493 .
+Guan , Y. , Zheng , B. J. , He , Y. Q. , Liu , X. L. , Zhuang , Z. X. , Cheung , C. L. , … & Poon , L. L. M. ( 2003 related to the SARS coronavirus from animals in southern China .
+Science , 302 ( 5643 ) , 276-278 .
+Ge , X. Y. , Li , J. L. , Yang , X. L. , Chmura , A .
+A. , Zhu , G. , Epstein , J. H. , … & Shi , Z. L. ( 2013 ) .
+Isolation and characterization of a bat SARS-like coronavirus that uses the ACE2 receptor .
+Nature , 503 ( 7477 ) , 535-538 .
+Ge , X. Y. , Wang , N. , Zhang Li , B. , Zhang , Y .
+Z. , … & Shi , Z. L. ( 2016 ) .
+Coexistence of multiple coronaviruses in several bat colonies in an abandoned mineshaft .
+Virologica Sinica , 31 ( 1 ) , 31-40 .
+Guo , H. , Hu , B. , Si , H. R. , Zhu , Y. , Zhang , W. , Li , B. , … & Shi , Z .
+( 2021 ) .
+Identification of a novel lineage bat SARS-related coronaviruses that use bat ACE2 receptor .
+bioRxiv L. P. , Yang , X. L. , Ge , X. Y. , Zhang , W. , Li , B. , … & Shi , Z. L. ( 2017 ) .
+Discovery of a rich gene pool of bat SARS-related coronaviruses provides new insights into the origin of SARS coronavirus .
+PLoS pathogens , 13 ( 11 ) , e1006698 .
+Hul , V. , Delaune , D. , Karlsson , E. A. , Hassanin , A. , Tey , P. O. , Baidaliuk , A. , … & Duong , V. ( coronavirus in bats from Cambodia .
+BioRxiv .
+Kaina , B .
+( 2021 ) .
+On the Origin of SARS-CoV-2 : Did Cell Culture Experiments Lead to Increased Virulence of the Progenitor Virus for Humans ?
+.
+in vivo , 35 ( 3 ) , 1313-1326 .
+Kuo , L. , Godeke , G. J. , Raamsman , M. J. , Masters , P. S. , & Rottier , P. J .
+( 2000 ) .
+Retargeting of coronavirus by substitution of the spike glycoprotein ectodomain : crossing the host cell species ( 3 ) , 1393-1406 .
+Lam , T. T. Y. , Jia , N. , Zhang , Y. W. , Shum , M. H. H. , Jiang , J. F. , Zhu , H. C. , … & Cao , W. C. ( 2020 ) .
+Identifying SARS-CoV-2-related coronaviruses in Malayan pangolins .
+Nature , 583 ( 7815 ) , 282-285 .
+Latinne , A. , Hu , B. , Olival , K. J. , Zhu , G. , Zhang , L. , Li , H. , … & Daszak , P. transmission of bat coronaviruses in China .
+Nature Communications , 11 ( 1 ) , 1-15 .
+Lau , S. K. , Li , K. S. , Huang , Y. , Shek , C. T. , Tse , H. , Wang , M. , … & Yuen , K. Y .
+( 2010 ) .
+Ecoepidemiology and complete genome comparison of different strains of severe acute respiratory syndrome-related Rhinolophus bat coronavirus in China reveal bats as a reservoir for acute , self-limiting infection that allows recombination events .
+Journal of virology , 84 , J. , Hughes , T. , Lee , M. H. , Field , H. , Rovie-Ryan , J. J. , Sitam , F. T. , … & Daszak , P. ( 2020 ) .
+No evidence of coronaviruses or other potentially zoonotic viruses in Sunda pangolins ( Manis javanica ) entering the wildlife trade via Malaysia .
+Ecohealth , 17 ( 3 ) , 406-418 .
+Li , Y. , Wang , H. , Tang , X. , Fang , S. , Ma , D. , Du , C. , … & SARS-CoV-2 and three related coronaviruses utilize multiple ACE2 orthologs and are potently blocked by an improved ACE2-Ig .
+Journal of virology , 94 ( 22 ) , e01283-20 .
+Li , L. , Wang , J. , Ma , X. , Li , J. , Yang , X. , Shi , W. , & Duan , Z .
+( 2021a ) .
+A novel SARS-CoV-2 related virus with complex recombination isolated from bats in Yunnan province , China .
+bioRxiv .
+Li , P. , Guo , R. , Liu , Y. , , Ou , X. , … & Qian , Z .
+( 2021b ) .
+The Rhinolophus affinis bat ACE2 and multiple animal orthologs are functional receptors for bat coronavirus RaTG13 and SARS-CoV-2 .
+Science Bulletin , 66 ( 12 ) , 1215-1227 .
+Li , Z. , & Zhang , J .
+Z .
+( 2021 ) .
+Quantitative analysis of ACE2 bindings to coronavirus spike proteins : SARS-CoV-2 vs SARS-CoV and RaTG13 .
+Physical Chemistry Chemical Physics .
+Liu , K. , Pan , X. , Li , L. , Yu Du , P. , … & Wang , Q .
+( 2021 ) .
+Binding and molecular basis of the bat coronavirus RaTG13 virus to ACE2 in humans and other species .
+Cell , 184 ( 13 ) , 3438-3451 .
+Luk , H. K. , Li , X. , Fung , J. , Lau , S. K. , & Woo , P. C. ( 2019 ) .
+Molecular epidemiology , evolution and phylogeny of SARS coronavirus .
+Infection , Genetics and Evolution , 71 , 21-30 .
+Lytras , S. , Hughes de Klerk , A. , Lourens , R. , Pond , S. L. K. , … & Robertson , D. L. ( 2021 ) .
+Exploring the natural origins of SARS-CoV-2 in the light of recombination .
+bioRxiv .
+Menachery , V. D. , Yount , B. L. , Debbink , K. , Agnihothram , S. , Gralinski , L. E. , Plante , J .
+A. , … & Baric , R. S. ( 2015 ) .
+A SARS-like cluster of circulating bat coronaviruses shows potential for human emergence .
+Nature medicine , H. , Quinlan , B. D. , Peng , H. , Guo , Y. , Peng , S. , Zhang , L. , … & Farzan , M. ( 2020 ) .
+Mutations from bat ACE2 orthologs markedly enhance ACE2-Fc neutralization of SARS-CoV-2 .
+BioRxiv .
+Murakami , S. , Kitamura , T. , Suzuki , J. , Sato , R. , Aoi , T. , Fujii , M. , … & Horimoto , T. ( 2020 ) .
+Detection and characterization of bat Sarbecovirus phylogenetically related to SARS-CoV-2 , Japan .
+) , 3025 .
+Opriessnig , T. , & Huang , Y. W. ( 2021 ) .
+Third update on possible animal sources for human COVID‐19 .
+Xenotransplantation , 28 ( 1 ) .
+Piplani , S. , Singh , P.K.
+, Winkler , D.A .
+et al .
+In silico comparison of SARS-CoV-2 spike protein-ACE2 binding affinities across species and implications for virus origin .
+Sci Rep 11 , 13063 ( 2021 ) .
+Rahalkar , M. C. , & Bahulikar , R. A .
+( 2020 ) .
+Lethal pneumonia cases the mineshaft could provide important clues to the origin of SARS-CoV-2 .
+Frontiers in public health , 8 , 638 .
+Shang , J. , Ye , G. , Shi , K. , Wan , Y. , Luo , C. , Aihara , H. , … & Li , F. ( 2020 ) .
+Structural basis of receptor recognition by SARS-CoV-2 .
+Nature , 581 ( 7807 ) , 221-224 .
+Sirotkin , K. , & Sirotkin , D. ( 2020 ) .
+Might SARS‐CoV‐2 have arisen via serial passage through an animal explanation for much of the novel coronavirus ’ distinctive genome .
+BioEssays , 42 ( 10 ) , 2000091. van Dorp , L. , Richard , D. , Tan , C. C. , Shaw , L. P. , Acman , M. , & Balloux , F. ( 2020 ) .
+No evidence for increased transmissibility from recurrent mutations in SARS-CoV-2 .
+Nature communications , 11 ( 1 ) , 1-8 .
+Wang , L. F. , Shi , Z. , Zhang , S. , Field , H. , Daszak , P. , & .
+Review of bats and SARS .
+Emerging infectious diseases , 12 ( 12 ) , 1834 .
+Wacharapluesadee , S. , Tan , C. W. , Maneeorn , P. , Duengkae , P. , Zhu , F. , Joyjinda , Y. , … & Wang , L. F. ( 2021 ) .
+Evidence for SARS-CoV-2 related coronaviruses circulating in bats and pangolins in Southeast Asia .
+Nature communications , 12 ( 1 ) , 1-9 .
+Wrobel , A. G. , Benton , D. J. , Xu , P. , Roustan , Rosenthal , P. B. , … & Gamblin , S. J .
+( 2020 ) .
+SARS-CoV-2 and bat RaTG13 spike glycoprotein structures inform on virus evolution and furin-cleavage effects .
+Nature structural & molecular biology , 27 ( 8 ) , 763-767 .
+Yu , P. , Hu , B. , Shi , Z. L. , & Cui , J .
+( 2019 ) .
+Geographical structure of bat SARS-related coronaviruses .
+Infection , Genetics and Evolution , 69 , 224-229 .
+Zhan , S. H. , Deverman , B. E. , ( 2020 ) .
+SARS-CoV-2 is well adapted for humans .
+What does this mean for re-emergence ?
+.
+bioRxiv .
+doi : https : //doi.org/10.1101/2020.05.01.073262 Zhou , P. , Yang , X. L. , Wang , X. G. , Hu , B. , Zhang , L. , Zhang , W. , … & Shi , Z. L. ( 2020 ) .
+A pneumonia outbreak associated with a new coronavirus of probable bat origin .
+nature , 579 ( 7798 ) , 270-273 .
+Zhou , H. , Chen , X. , Hu Song , H. , Liu , Y. , … & Shi , W. ( 2020 ) .
+A novel bat coronavirus closely related to SARS-CoV-2 contains natural insertions at the S1/S2 cleavage site of the spike protein .
+Current Biology , 30 ( 11 ) , 2196-2203 .
+Zhou , H. , Ji , J. , Chen , X. , Bi , Y. , Li , J. , Hu , T. , … & Shi , W. ( 2021 ) .
+Identification of novel bat coronaviruses sheds light on the evolutionary origins of [ Now published in Cell : Identification of novel bat coronaviruses sheds light on the evolutionary origins of SARS-CoV-2 and related viruses : Cell ] Zhou , P. , & Shi , Z. L. ( 2021 ) .
+SARS-CoV-2 spillover events .
+Science , 371 ( 6525 ) , 120-122 .
+If this article was useful to you please consider sharing it with your networks .
