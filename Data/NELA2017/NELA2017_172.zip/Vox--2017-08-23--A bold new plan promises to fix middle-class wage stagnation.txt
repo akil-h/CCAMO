@@ -1,0 +1,71 @@
+In the 1940s, ’50s, and ’60s, incomes for the poor and middle class grew faster than those of the rich. Then, in the 1970s and 1980s, something changed. In recent decades, the typical American has seen their income grow by 1 percent per year, often less, barely keeping up with inflation. Meanwhile the richest of the rich have seen annual income grow by 3, 4, 5, even 6 percent. Income growth for the middle class fell substantially below economic growth for the nation as a whole.
+
+This problem — deep income inequality and stagnating or slow-growing wages for the majority of Americans — is pretty well recognized at this point. But few politicians or analysts have proposed ideas large enough in scale to tackle the problem. Free college won’t fix this. Nor will more tax cuts for corporations.
+
+But veteran policy economist Len Burman, of the Urban Institute and Syracuse University, has an idea that could be up to the task. It’s simple: establish a tax credit, distributed regularly with paychecks, that matches the first $14,000 in wages a person earns. A middle class person making $50,000 a year would get $14,000 tacked onto that. So would rich people making far more — and, most importantly, so would a member of the working poor earning $14,000 a year, which are roughly the earnings of someone making federal minimum wage and working full-time.
+
+The result, for most Americans, would be a huge raise. More or less everyone above the poverty line who works full time would be getting a $14,000 boost to their wages. What’s more, Burman would index that amount to economic growth, so that everyone has a tangible stake in the economy’s growth and prosperity is equally shared. The idea isn’t just to do a one-time boost, but to build a system where the last few decades of hoarded growth can’t happen again.
+
+To pay for the plan, Burman proposes a value-added tax (VAT), a form of sales tax levied on each stage of production which is used in basically every rich country other than the US. He estimates that the likely rate needed to pay for the plan is about 15 percent; if you spend $10,000, then about $1,500 of that will go to taxes. He also wants the supplement to be taxable, and payroll taxes would apply.
+
+That’s a big tax — but this is a big program, and Burman notes that Americans have been willing to accept higher taxes for Social Security and Medicare. And maybe something of this magnitude is necessary to make up for decades of income not going to the middle and lower class.
+
+In a way, the plan builds on an existing government program: the Earned Income Tax Credit, which matches 40 percent of the first $14,040 that a household with two kids makes (the parameters for households with one or fewer kids are different). Burman’s plan amounts to a huge increase in that subsidy. It has a lot in common, thus, with a plan to massively expand the EITC put forward by Congressman Ro Khanna (D-CA).
+
+While under the EITC, childless adults get very little, Burman would equalize treatment across families regardless of the number of kids.
+
+He’d also add to the Child Tax Credit, which offers $1,000 per child to all but the richest households; while the credit now slowly phases in for people earning $3,000 or more, Burman would make it fully refundable, creating a de facto child benefit paid out regardless of income.
+
+“My proposal is a work in progress,” Burman tells me. “I haven’t modeled it yet and might add features like a bigger child tax credit depending on how the distribution tables work out.”
+
+His credit would be paid out regularly with paychecks rather than backloaded at tax season; EITC is typically paid out as part of a tax refund, leading to a somewhat perverse situation where it’s sometimes used to pay back interest on payday loans or credit card debt that wouldn’t have been incurred if the payments were more regular.
+
+To see how the system would help low-income families, imagine a single parent is making $14,000 a year at a minimum-wage job. She’s living paycheck to paycheck, not saving anything. Her income is well below her combined standard deduction and personal exemptions, so she pays no income tax. But she pays payroll taxes, just like everyone else.
+
+Under current law, she’d take home roughly $12,929 after payroll taxes; she’d also get about $7,250 back in her tax refund due to the Earned Income Tax Credit (which gives someone in her situation about $5,600) and the Child Tax Credit (which would give her a total of $1,650). These figures are necessarily rough, but they’re illustrative.
+
+Under Burman’s plan, three things would change. First, she’d get a $14,000 income match every year, replacing the EITC’s $5,600 boost. Then, she’d get the full $2,000 from the Child Tax Credit.
+
+But she’d also face more taxes. The combined employer/employee payroll tax would reduce her income match to $11,858. Plus, she’d owe $650 in income taxes, counting against her refund.
+
+And because of the new VAT, everything she buys would cost 15 percent more. VATs work like sales taxes, levied at each stage of production. They increase the cost that consumers pay a corresponding amount, just like retail sales taxes do. Assuming this single mom keeps spending all her income, including the new credit, she’d pay $4,018 in VAT.
+
+Taking all that into account, her after-tax income would end up increasing about $2,600 — from $20,179 to $22,769.
+
+For middle-class people, the situation is trickier, because income taxes would eat further into the grant. But most would still benefit. Imagine that single mother of two is instead earning $50,000 a year. Assuming she takes the standard deduction and saves 10 percent of her income, her after-tax income would go from $44,568 to $45,686 — a boost of over $1,000.
+
+For rich people, meanwhile, the grant would be taxed away entirely, and then some, through the value-added tax and existing income and payroll taxes. A CEO earning $5 million a year, and spending a fifth of it, would end up paying $150,000 in VAT, more than offsetting the $14,000 they’d get added to their paycheck. (Plus, they’d pay back $6,153 of the grant in income and payroll taxes.)
+
+Using a VAT as a funding mechanism is not as progressive as funding a plan like this through taxing the rich. But it’s not clear that taxing the rich alone would raise enough money to fund a plan this immense.
+
+There’s also a political rationale for a more regressive tax. The Social Security system in the US and most European welfare states make heavy use of regressive taxes like VATs and payroll taxes, partly to promote a sense that society as a whole is “paying into” programs; if you shop, you pay a VAT, and are thus contributing to the common pool.
+
+“Social Security is wildly popular,” Burman notes. “People support the regressive payroll tax because they like what it pays for and because it’s automatically withdrawn from their paychecks, unlike the reviled income tax that requires an obvious and painful annual reckoning.” A VAT, similarly, would be tightly linked to what it pays for (the big wage subsidy) and require no tax returns on the part of the average taxpayer.
+
+Burman’s plan wouldn’t just be a windfall for lower-income families with kids. It would also be a form of active government intervention in the labor market. We know from experience with the Earned Income Tax Credit that when the government matches wages, it induces more people to work.
+
+That makes sense — when work pays more, more people will choose to work — but there’s a lot of empirical evidence to back it up. In a literature review on the EITC’s effects, economists Austin Nichols (Abt Associates) and Jesse Rothstein (Berkeley) conclude, “essentially all authors agree that the EITC expansion led to sizable increases in single mothers’ employment rates, concentrated among less-skilled women and among those with more than one qualifying child.”
+
+For instance, the University of Chicago's Jeffrey Grogger has found that the EITC, which primarily benefits families with kids, was one of the most significant factors driving an increase in the share of single mothers working in the 1990s — much more significant as a work incentive than welfare reform’s time limits.
+
+From one perspective, that’s a very good thing. A study by UC Berkeley economist Hilary Hoynes and the Treasury Department's Ankur Patel found that including the employment effects of EITC doubles its estimated effectiveness at reducing poverty. People aren't just getting the money from the government, they're getting wages they wouldn't otherwise get as well.
+
+So far, this has mostly happened with single mothers, but extending the program to offer more benefits to childless adults, or adults without custody of their children, could do a lot to reverse the long-term decline in the share of men in the labor force.
+
+There are also potential non-monetary benefits to encouraging people to work. There’s some psychological evidence suggesting that having a working mother is correlated with higher academic achievement and lower anxiety/stress in children, particularly for low-income children and children in single-parent households.
+
+There’s considerable evidence suggesting that sudden income boosts to families can improve kids’ academic performance, but as Nichols and Rothstein note, the correlation between EITC and test scores is even stronger, suggesting that it’s not just the monetary transfer that’s improving student achievement. Some EITC advocates have pointed to these benefits of encouraging work as a rationale for the plan’s structure.
+
+That all sounds great. But one aspect of the plan could cause concern, just as the EITC has provoke concern among some leftists and union activists.
+
+Precisely because the EITC encourages more people to work, it increases the supply of labor. As economists will tell you, when the supply of something increases, the price of it tends to fall. Sure enough, there’s some empirical and theoretical evidence suggesting that the EITC enables employers to pay lower wages than they otherwise would.
+
+This isn’t a huge problem for parents, whose lower wages are swamped by the size of their EITC checks, but it matters a lot for childless adults, who currently receive little in EITC benefits but have to deal with its effect on wages.
+
+And this would be a problem with any other wage subsidy program too. Burman’s plan would address the childless adult problem, so it wouldn’t leave many if any poor workers worse off when both the wage effects and the subsidy amount are considered. But it would have similar effects on wages to those of the EITC. If the EITC hurts pre-tax wages, so will Burman’s subsidy. If you care more about promoting work than boosting wages, that might be fine. And you can mitigate the impact somewhat by raising the minimum wage, to limit how much employers can lower wages in response to the EITC. But it’s an issue in need of addressing.
+
+Another possibility would be moving away toward a wage subsidy toward something like a negative income tax, a form of basic income that would give everyone a set amount of money to live on and then phase the benefit out gradually so upper-income households don’t benefit. Some studies have found that when the labor market is slack and wages aren’t rising, a negative income tax is a superior policy to the EITC.
+
+The downside is that a negative income tax would likely discourage work a bit, by giving people money that they can use to cut down on hours, or let a second earner stop working. That has a benefit — it reduces labor supply and drives up wages — but Americans typically don’t really like programs that give money to people who don’t work. “[Higher wages] might be a positive externality for workers, but might be a negative political feature,” Burman tells me. “I think a lot of moderates and conservatives are willing to help ‘people who work hard and play by the rules’ [quoting President Clinton] but don’t want to help slackers. “
+
+A negative income tax would also be quite expensive. But so would Burman’s plan — and a negative income tax could accomplish some of the same goals. If you’re thinking of introducing a big new tax like the VAT, it’s worth at least thinking about the best things it could fund.

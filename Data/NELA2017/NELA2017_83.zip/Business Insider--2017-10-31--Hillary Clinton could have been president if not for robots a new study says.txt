@@ -1,0 +1,23 @@
+
+
+ If three swing states had slightly fewer robots leading up to the 2016 presidential election, Hillary Clinton could have beaten Donald Trump, according to a new study.
+
+A working paper from three Oxford University researchers has determined that if Michigan, Wisconsin, and Pennsylvania had had 2% fewer robots, Clinton would have secured more working-class votes to help eclipse Trump in the electoral college.
+
+"Building on the intuition that voters who have lost out to technology are more likely to opt for radical political change, we examine if robots shaped the outcome of the 2016 U.S. Presidential Election," the researchers wrote in their paper.
+
+Economists have been speculating for years — and the last several, especially — that robotic automation could pose serious threats to the US labor force. Some have predicted that up to half of all jobs could someday be replaced by machines, causing the unemployment rate to spike.
+
+The latest study examined whether fears about that job loss caused people who might have voted for Clinton in more secure times instead cast their vote for Trump, who consistently promised to bring back American jobs.
+
+"What is clear is that the vote for Donald Trump was a vote against the status quo," the researchers wrote.
+
+To carry out their study, the team analyzed the prevalence of robot automation across 13 manufacturing industries and six non-manufacturing industries, such as retail or customer service, from 2011 to 2015, using the American Community Survey. They crosschecked that data with employment data in local labor markets.
+
+That revealed at least an overlap between counties that voted for Trump and those with a greater share of robots. But to deduce that 2% fewer robots in three key states could have been the key for a Clinton win, the team performed a second analysis that told them, based on their model, what might have happened if things had been different.
+
+In short, they found Clinton likely could have earned the necessary votes if Wisconsin, Michigan, and Pennsylvania had 2% fewer robots.
+
+Of course, Trump won. Automation is the 21st-century version of what played out during Britain's Industrial Revolution, when voters were divided between those who preferred farming powered by horse and those in favor of machines.
+
+The researchers quoted in their report economist Wassily Leontief, who remarked in 1983, "If horses could have joined the Democratic party and voted, what happened on farms might have been different."

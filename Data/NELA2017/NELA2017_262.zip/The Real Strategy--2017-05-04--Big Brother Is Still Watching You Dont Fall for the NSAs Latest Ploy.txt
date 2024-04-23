@@ -1,0 +1,93 @@
+“You had to live—did live, from habit that became instinct—in the assumption that every sound you made was overheard, and, except in darkness, every movement scrutinized.”—George Orwell, 1984
+
+Supposedly the National Security Administration is going to stop collecting certain internet communications that merely mention a foreign intelligence target.
+
+Privacy advocates are hailing it as a major victory for Americans whose communications have been caught in the NSA’s dragnet.
+
+If this is a victory, it’s a hollow victory.
+
+Since its creation in 1952, when President Harry S. Truman issued a secret executive order establishing the NSA as the hub of the government’s foreign intelligence activities, the agency has been covertly spying on Americans, listening in on their phone calls, reading their mail, and monitoring their communications.
+
+For instance, under Project SHAMROCK, the NSA spied on telegrams to and from the U.S., as well as the correspondence of American citizens. Moreover, as the Saturday Evening Post reports, “Under Project MINARET, the NSA monitored the communications of civil rights leaders and opponents of the Vietnam War, including targets such as Martin Luther King, Jr., Mohammed Ali, Jane Fonda, and two active U.S. Senators. The NSA had launched this program in 1967 to monitor suspected terrorists and drug traffickers, but successive presidents used it to track all manner of political dissidents.”
+
+Not even the passage of the Foreign Intelligence Surveillance Act and the creation of the FISA Court, which was supposed to oversee and correct how intelligence information is collected and collated, managed to curtail the NSA’s illegal activities.
+
+In the wake of the 9/11 attacks, George W. Bush secretly authorized the NSA to conduct warrantless surveillance on Americans’ phone calls and emails.
+
+Nothing changed under Barack Obama. In fact, the violations worsened, with the NSA authorized to secretly collect internet and telephone data on millions of Americans, as well as on foreign governments.
+
+It was only after whistleblower Edward Snowden’s revelations in 2013 that the American people fully understood the extent to which they had been betrayed once again.
+
+What this brief history makes clear is that the NSA cannot be reformed.
+
+This is an agency whose very existence—unaccountable and lacking any degree of transparency—flies in the face of the Constitution.
+
+Despite the fact that its data snooping has been shown to be ineffective at detecting, let alone stopping, any actual terror attacks, the NSA has continued to operate largely in secret, carrying out warrantless mass surveillance on hundreds of millions of Americans’ phone calls, emails, text messages and the like, beyond the scrutiny of most of Congress and the taxpayers who are forced to fund its multi-billion dollar secret black ops budget.
+
+As long as the government is allowed to make a mockery of the law—be it the Constitution, the FISA law, or any other law intended to limit its reach and curtail its activities—and is permitted to operate behind closed doors, relaying on secret courts, secret budgets and secret interpretations of the laws of the land, there will be no reform.
+
+Presidents, politicians, and court rulings have come and gone over the course of the NSA’s 60-year history, but none of them have done much to put an end to the NSA’s “technotyranny.”
+
+The beast has outgrown its chains. It will not be restrained.
+
+Moreover, even if the NSA could be reformed, the problem of government surveillance goes far beyond the criminal activities of this one agency.
+
+In fact, long before the NSA became the agency we loved to hate, the Justice Department, the FBI, and the Drug Enforcement Administration were carrying out their own secret mass surveillance on an unsuspecting populace. Just about every branch of the government—from the Postal Service to the Treasury Department and every agency in between—now has its own surveillance sector, authorized to spy on the American people.
+
+Then there are the fusion and counterterrorism centers that gather all of the data from the smaller government spies—the police, public health officials, transportation, etc.—and make it accessible for all those in power. And of course that doesn’t even begin to touch on the complicity of the corporate sector, which buys and sells us from cradle to grave, until we have no more data left to mine.
+
+Consider that on any given day, the average American going about his daily business will be monitored, surveilled, spied on and tracked in more than 20 different ways, by both government and corporate eyes and ears. A byproduct of this new age in which we live, whether you’re walking through a store, driving your car, checking email, or talking to friends and family on the phone, you can be sure that some government agency, whether the NSA or some other entity, is listening in and tracking your behavior.
+
+Corporate trackers monitor your purchases, web browsing, Facebook posts and other activities taking place in the cyber sphere. For example, every time you use a loyalty card at the grocery store or elsewhere, your purchases are being monitored, mined for data, and sold to the highest bidder. Every time you use your credit or debit card, or your digital “wallet,” your transactions are being tracked. Uber’s ride service app knows where you are even when you are not actively using the service. Even store mannequins are being used to monitor and identify shoppers with facial recognition software.
+
+Major cities are being transformed into “Smart Cities” filled with sensors in everything from pavement to lamp posts, and all of that data is being linked together to monitor the day-to-day lives of everyone in them. In some cities, even the sewage is being monitored and could potentially be used to find out what drugs a household may have used.
+
+All of your medical data in the near future will be constantly monitored, and while the data is supposed to only be shared with your doctor, in practice it will be accessible by any number of government and private actors.  Microchips in “smart pills” can communicate with tablet devices to ensure the elderly take their medications already exist. And a transponder injected into the skin that contains a person’s entire medical history has been approved by the FDA.  Wearable health-monitoring devices likewise can be used to monitor you, and the information collected can be used in a court of law.  Smart toothbrushes can monitor your brushing habits and communicate them to your dentist, or anyone else.  Smart alarm clocks can monitor your sleep habits.
+
+Like all other devices relying on the Internet of Things (IoT) to communicate, these can be hacked into by government and private corporations.
+
+The “internet of things” refers to the growing number of “smart” appliances and electronic devices now connected to the internet and capable of interacting with each other and being controlled remotely. These range from thermostats and coffee makers to cars and TVs.
+
+Of course, there’s a price to pay for such easy control and access. That price amounts to relinquishing ultimate control of and access to your home to the government and its corporate partners. For example, while Samsung’s Smart TVs are capable of “listening” to what you say, thereby allow users to control the TV using voice commands, it also records everything you say and relays it to a third party. Same goes for Amazon’s Echo.
+
+“Smart houses” filled with IoT-capable devices are just starting to come into play, but by 2020 Samsung pledges that all of its devices, including its household appliances, will be IoT capable.  Such products include ovens, microwaves, vacuums (including robot vacuums), refrigerators, dishwashers, washing machines, and dryers, as well as smart hubs which coordinate everything.  Coffee makers and toasters are also being made IoT compatible.
+
+Smart TVs seemingly out of Orwell’s 1984 will also collect data and spy on you.  Modern gaming consoles likewise have internet connections, and those with cameras can be used to spy like any smartphone or computer.  Smart power outlets can turn your lights on and off remotely, and smart thermostats work similarly.
+
+All of them monitor when you’re at home or not, as can smart home security systems.  Wi-Fi routers can even monitor the inside of your home and distinguish between different individuals in the house, while reading their lips to “hear” what they say.  Other forms of home monitoring systems for the elderly can be hacked and used by anyone.
+
+Already the web-enabled “Hello Barbie” doll has been the center of a hacking controversy, in which security experts disclosed a number of significant security flaws with the toy.  Other smart objects include smart golf clubs, which monitor the speed, acceleration, and swing plane of your golf swing, smart shoes which track your location and can guide you on where to go. Tostitos has even unveiled a promotional smart bag of chips which can tell you if you’ve been drinking too much.
+
+That doesn’t even begin to touch on all of the government’s many methods of spying on its citizens. For instance, police have been using Stingray devices mounted on their cruisers to intercept cell phone calls and text messages without court-issued search warrants.
+
+Doppler radar devices, which can detect human breathing and movement within in a home, are already being employed by the police to peer inside a suspect’s home.
+
+License plate readers, yet another law enforcement spying device made possible through funding by the Department of Homeland Security, can record up to 1800 license plates per minute. These surveillance devices can also photograph those inside a moving car. Recent reports indicate that the DEA has been using license plate readers in conjunction with facial recognition software to build a “vehicle surveillance database” of the nation’s cars, drivers and passengers.
+
+Sidewalk and “public space” cameras, sold to gullible communities as a sure-fire means of fighting crime, is yet another DHS program that is blanketing small and large towns alike with government-funded and monitored surveillance cameras. It’s all part of a public-private partnership that gives government officials access to all manner of surveillance cameras, on sidewalks, on buildings, on buses, even those installed on private property.
+
+Couple these surveillance cameras with facial recognition and behavior-sensing technology and you have the makings of “pre-crime” cameras, which scan your mannerisms, compare you to pre-set parameters for “normal” behavior, and alert the police if you trigger any computerized alarms as being “suspicious.”
+
+Capitalizing on a series of notorious abductions of college-aged students, several states are pushing to expand their biometric and DNA databases by requiring that anyone accused of a misdemeanor have their DNA collected and catalogued. Technology is already available that allows the government to collect biometrics such as fingerprints from a distance, without a person’s cooperation or knowledge. One system can actually scan and identify a fingerprint from nearly 20 feet away.
+
+Radar guns have long been the speed cop’s best friend, allowing him to hide out by the side of the road, identify speeding cars, and then radio ahead to a police car, which does the dirty work of pulling the driver over and issuing a ticket. Now, developers are hard at work on a radar gun that can actually show if you or someone in your car is texting. No word yet on whether the technology will also be able to detect the contents of that text message.
+
+It’s a sure bet that anything the government welcomes (and funds) too enthusiastically is bound to be a Trojan horse full of nasty surprises. Case in point: police body cameras. Hailed as the easy fix solution to police abuses, these body cameras—made possible by funding from the Department of Justice—are turning police officers into roving surveillance cameras. Of course, if you try to request access to that footage, you’ll find yourself being led a merry and costly chase through miles of red tape, bureaucratic footmen and unhelpful courts.
+
+And the FBI can remotely activate the microphone on your cellphone and record your conversations. The FBI can also do the same thing to laptop computers without the owner knowing any better.
+
+Government surveillance of social media such as Twitter and Facebook is also on the rise. Americans have become so accustomed to the government overstepping its limits that most don’t even seem all that bothered anymore about the fact that the government is spying on our emails and listening in on our phone calls.
+
+Drones, which are taking to the skies en masse, will be the converging point for all of the weapons and technology already available to law enforcement agencies. This means drones that can listen in on your phone calls, see through the walls of your home, scan your biometrics, photograph you and track your movements, and even corral you with sophisticated weaponry.
+
+It’s a given that the government’s tactics are always more advanced than we know, so there’s no knowing what new technologies are already being deployed against us without our knowledge. Certainly, by the time we learn about a particular method of surveillance or new technological gadget, it’s a sure bet that the government has been using it covertly for years already.
+
+If you haven’t figured it out yet, we’ve all become suspects, a.k.a. potential criminals.
+
+As I make clear in my book, Battlefield America: The War on the American People, we now find ourselves in the unenviable position of being monitored, managed and controlled by our technology, which answers not to us but to our government and corporate rulers.
+
+This is the creepy, calculating yet diabolical genius of the American police state: the very technology we hailed as revolutionary and liberating has become our prison, jailer, and probation officer.
+
+So don’t get too excited about the NSA’s latest concession.
+
+It won’t stop Big Brother from watching you.

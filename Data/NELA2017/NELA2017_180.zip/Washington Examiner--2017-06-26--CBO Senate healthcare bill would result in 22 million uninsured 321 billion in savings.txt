@@ -1,0 +1,39 @@
+The Republican healthcare draft legislation released by the Senate last week would cause 22 million more people to become uninsured over a decade and would reduce the deficit by $321 billion, according to an analysis published Monday by the Congressional Budget Office.
+
+The Senate draft is similar to the House bill, the American Health Care Act, but includes several changes. It provides funds that would help stabilize the exchanges in the short term and changes the rate of Medicaid growth in the long term. Its tax subsidies to help people buy private insurance would extend to factoring in other qualifications besides age, including income and geography.
+
+But those efforts appeared to have little effect on rates of healthcare coverage. The nonpartisan agency estimates that 15 million more people would be uninsured in 2018 compared to current law because the penalty for not having insurance would be eliminated.
+
+Compared to the projections about the House bill, the billions of dollars the bill provides to stabilize the Obamacare exchanges appear to have no effect on reducing uninsurance numbers in the short term. The number of uninsured would increase to 19 million in 2020 and 22 million in 2026.
+
+On Medicaid, CBO found that by 2026, enrollment would fall by 16 percent. The figure undercuts a key argument from some Republicans that nobody in Medicaid would lose coverage through the changes to the program outlined in the bill.
+
+While the legislation would keep Obamacare's Medicaid expansion, albeit at a lower federal match, it would cut federal funding over a three-year period and then move to a block grant or per capita cap, which also would reduce federal spending.
+
+The CBO estimate finds that premiums would rise about 20 percent more in 2018 than prices under current law. That's because the elimination of the individual mandate penalty would lead to fewer healthy people signing up, the CBO said.
+
+In 2019 the premiums would increase by about 10 percent compared to current law as funding provided to take on premiums would start to affect pricing.
+
+But starting in 2020, average premiums for the average Obamacare plan on the individual market would be about 30 percent lower than the current law. Premiums would be about 20 percent lower starting in 2026.
+
+"A combination of factors would lead to that decrease — most important, the smaller share of benefits paid for by the benchmark plans and federal funds provided to directly reduce premiums," the CBO said.
+
+Low-income customers, however, would be left out from the premium reductions. Some people enrolled in the individual market would experience major premium increases even though the benchmark premiums would decline, the report said.
+
+That is because the tax credits under the Senate bill are pegged to a bronze plan, in which an insurer pays a smaller share of the healthcare costs compared to a silver plan, which is the middle tier of Obamacare plans.
+
+Under a silver plan, an insurer pays about 70 percent of the average cost of benefits in Obamacare's marketplaces. But under the Senate bill, the benchmark plan to determine the tax credits are pegged to a plan that covers about 58 percent of total costs. The closest plan to fit such a value is the bronze plan.
+
+"The deductible for a plan with an actuarial value of 58 percent would be a significantly higher percentage of income — also making such a plan unattractive, but for a different reason," CBO said. "As a result, despite being eligible for premium tax credits, few low-income people would purchase any plan."
+
+CBO also looked into the impact of states that waive essential health benefits, which insurers are forced to cover nationwide under Obamacare. The benefits include maternity care, mental health services and hospitalization, among others.
+
+CBO found that the Affordable Care Act's ban on annual and lifetime limits on some covered benefits would "no longer apply to health benefits not defined as essential in a state." Therefore, some enrollees could see large increases in out-of-pocket spending, the agency added.
+
+The $321 billion in projected savings is $202 billion more than the estimated net savings of the House version that passed last month. Some of that comes from the changes to Medicaid.
+
+Under the special rules the GOP is using to pass the bill in the Senate with just 51 votes, called reconciliation, the bill had to save as much money as the version that passed the House.
+
+The report includes the latest changes to the bill released Monday, which would implement a waiting period for health insurance coverage for six months for people who go uninsured and then wait to sign up. Beginning in 2019, the provision would apply to people who had been uninsured for more than 63 days. CBO predicts this provision would slightly increase the number of people with insurance but not in 2019, when premiums are expected to be high.
+
+Senate leaders are aiming to vote on the bill Thursday and will allow for amendments to the legislation. The CBO report will influence how Republicans vote on the bill. Because they are choosing to advance it through reconciliation, which requires only a simple majority for passage, they cannot afford to lose more than two Republicans. No Democrat will vote for the bill, and Vice President Mike Pence can supply a tie-breaking vote if needed.

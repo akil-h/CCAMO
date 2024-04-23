@@ -1,0 +1,25 @@
+Setting aside the question of what “many other negative things” Trump and Putin plan to guard, and how; and setting aside the absurdity of the idea that the United States would partner with Russia, of all countries, on a cybersecurity initiative, there is a basic question to answer: Is “impenetrable cybersecurity” even possible?
+
+President Donald Trump doesn’t seem to understand that. “Putin & I discussed forming an impenetrable Cyber Security unit so that election hacking, & many other negative things, will be guarded,” he tweeted on Sunday.
+
+Modern cybersecurity is a constant cycle of breaches and patches. Systems are compromised, security experts play catch up, and eventually hackers find a new way in. Each side tries to outwit the other. But at any given moment, one of them is always a step ahead.
+
+Nothing connected to the internet is safe from hackers. And I mean nothing.
+
+No, it is not. (Trump later acknowledged as much, but more on that in a minute.)
+
+“Anything connected to the internet is by definition vulnerable,” says Robert Cattanach,   a partner with the law firm Dorsey and Whitney who specializes in cybersecurity. “The clients I work for who are serious about protecting their ‘crown jewels’ keep that information in an isolated, unconnected server, locked in a limited-access room with no connectivity to the outsider world.”
+
+“Protection only can go so far,” he added. “After that you’re relying on detection processes and response protocols.”
+
+Give hackers enough time and money to break into a system, and they’ll often find a way to do it.  And the thing is, it’s not always easy—or even possible—to detect a breach. That’s especially the case when you get to the highest levels of hacking, with state actors fighting against each other across complex networked systems.
+
+“If you’re at war with a foreign power and they drop a bomb on you and that’s why your power doesn’t work, you know who did it,” John Kelly, the founder of network analytics firm Graphika told me in a conversation before the Putin-Trump meeting. “One of the problems with cyber attacks is you may not know who did it. And even if your intelligence services know, you can’t prove it to the world.”
+
+No wonder, then, that Putin is telling the United States to prove it; and asking for evidence of Russia’s alleged interference in the 2016 presidential election, according to the Secretary of State, Rex Tillerson. When you couple actual hacking with what Kelly calls “hacking of the mind,” like attempts to sway public opinion, things get thornier still. Several American intelligence agencies confirmed in a Director of National Intelligence report earlier this year that they have “high confidence” that Putin ordered an influence campaign in 2016 aimed at undermining “public faith in the US democratic process.” Social publishers like Facebook have suggested they’ve detected similar activity across their networks.
+
+Yet without hard evidence, and at a time when Americans’ faith in democratic institutions is nosediving, Russia can deny, deny, deny. Apparently that’s enough for Trump, who says now that Putin has “vehemently denied” meddling in the election, he wants to “move forward in working constructively with Russia!”
+
+“If I had to choose, I’d let the power grid fail, and let our democracy be strong,” Kelly says. “If you completely erode the underpinnings of democratic society, everything else can be working, but you’re still broken. That’s a lot harder to fix.”
+
+[Update:] On Sunday night, about 30 minutes after this article was originally published, Trump seemed to walk back his earlier comments on cybersecurity. “The fact that President Putin and I discussed a Cyber Security unit doesn’t mean I think it can happen,” he tweeted. “It can’t.”

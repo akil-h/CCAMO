@@ -1,0 +1,47 @@
+Tech billionaires are really, really politically powerful.
+
+We got a powerful reminder of this in August, as the Google-funded think tank New America pushed out antitrust researchers critical of Google after longtime Google executive and former CEO Eric Schmidt expressed his displeasure. But that’s just the latest example of Silicon Valley’s power in policy and politics.
+
+Schmidt is a major Democratic donor and invested in a number of startups that worked on behalf of Hillary Clinton’s 2016 campaign. Silicon Valley venture capitalist John Doerr was a frequent guest in the Obama White House and serves on the board of directors for the Obama Foundation, Obama’s post-presidency project. LinkedIn and PayPal founder Reid Hoffman has announced plans to donate tens if not hundreds of millions of dollars to campaigns, advocacy groups, and other organizations combatting the Trump administration.
+
+So it’s important to understand what the tech elite — not just rank-and-file programmers but affluent entrepreneurs — think about politics. And a new paper by Stanford political science professors David Broockman and Neil Malhotra, in collaboration with tech journalist Gregory Ferenstein, provides the best evidence we have to date about how this group thinks.
+
+By and large, tech entrepreneurs are liberals who voted for Hillary Clinton, identify as Democrats, and support same-sex marriage and higher taxes on the rich. But they differ from rank-and-file Democratic voters on at least a couple issues, most importantly over whether regulation is effective and whether unions are a good influence on the economy.
+
+The study, which builds on Ferenstein’s years of efforts to understand the political ideology of Silicon Valley elites (which he documents in this Vox piece), is based on a survey of over 600 “elite technology company leaders and founders.” The median respondent had founded or led a company which raised more than $1 million in venture capital (although many had raised more). The typical survey respondent in the US, they write, “is a millionaire who founded and runs a company in the technology industry with approximately 100 employees.”
+
+This isn’t just Eric Schmidts or Jeff Bezoses or Reid Hoffmans, in other words. But it’s a broader set of very wealthy, successful Silicon Valley entrepreneurs. And for comparison, the authors also conducted large-scale surveys of Democratic and Republican-leaning donors, and of Democratic and Republican partisans in the public at large.
+
+They found that, broadly speaking, tech entrepreneurs are pretty liberal. 75.2 percent voted for Hillary Clinton in 2016, and 61.3 percent identified as Democrats, while only 8.8 percent voted for Trump and 14.1 percent identified as Republicans. Tech entrepreneurs registered less racial resentment and less authoritarian sentiment than either Democratic or Republican base voters.
+
+On social issues, the group is very liberal, more so than Democratic voters as a whole: 96 percent of tech entrepreneurs support same-sex marriage, 79 percent view abortion as a matter of personal choice, 82 percent favor gun control, and 67 percent oppose the death penalty.
+
+Perhaps surprisingly given their wealth, the tech entrepreneurs strongly support taxation and redistribution: 83 percent support higher taxes on people making $1 million or more per year (76 percent support higher taxes on those making at least $250,000), while 59 percent support increasing spending on federal programs for the poor; only 6 percent support cutting them. And 82 percent say they support universal healthcare even if it requires raising taxes.
+
+There are at least two important areas, though, where tech entrepreneurs stand apart from typical liberals.
+
+The first is on the question of what the study authors call “globalism,” or the proper balance between the interests of Americans and those of people living abroad. Tech entrepreneurs are about as globalist as Democratic donors, and far more globalist than other groups:
+
+These are all, the authors note, policy positions that would substantially reduce inequality at a global scale, while arguably increasing it domestically, especially in the case of trade. There’s something of a tension, on trade, between what’s best for the domestic working class and what’s best for the global working class, and tech entrepreneurs and Democratic donors tend to side with the latter.
+
+The other, even more intriguing divergence is that, unlike Democratic donors or voters, tech entrepreneurs tend to oppose many regulations, especially ones affecting labor markets, and they are very skeptical of labor unions. While Democratic donors want to regulate and redistribute, and Republican donors want to do neither, tech entrepreneurs are in the middle: They like redistribution (especially if it runs through programs operated by the private sector) but oppose regulation:
+
+82 percent of tech entrepreneurs think it’s too difficult to fire workers and want the government to make it easier to do so, very similar to the views expressed by Republican donors and voters. 74 percent want labor unions’ influence to decrease (Democratic donors, despite their economic status, are by contrast the most pro-union group surveyed). 70 percent oppose regulating Uber-like taxi companies, while most Democratic citizens and donors disagree.
+
+What explains this? Part of the story might be simple self-interest. Sure enough, the authors find that while tech entrepreneurs are very likely to say that “government regulation of the technology industry does more harm than good,” they’re much less likely to say the same thing about regulation targeting banks, the financial sector, or the pharmaceutical industry. (Interestingly, Democratic donors and voters are also more favorable toward tech than those other industries.)
+
+But a lot of the story boils down to different views about the proper roles of markets. “We expected that individuals who self-select into becoming entrepreneurs would have more favorable predispositions towards entrepreneurs and markets on average, and that their experiences being entrepreneurs could further contribute to these views,” the authors write. And their results confirmed this expectation.
+
+They asked all groups their views on the propriety of market pricing in two different areas: Uber surge pricing, and florists jacking up prices on holidays. In the former case, you might imagine self-interest, or at least a self-alignment with other tech companies, driving tech entrepreneurs to be more supportive of surge pricing than other groups. But for florists, that explanation doesn’t really fly. And what they find is that tech entrepreneurs are more supportive of the right of businesses to jack up prices in both circumstances:
+
+This finding, they surmise, “suggests that technology entrepreneurs’ support for surge pricing does not appear to reflect the fact that Uber is a technology company.” It’s reflective of deeper convictions about the role of markets, convictions that the public at large does not share but that donors to both parties do.
+
+Parties need donors, and traditionally that has led to parties aligning with specific industries and segments of the economy. The contemporary Republican party has allied tightly with the oil and gas sectors, the 1990s Democratic party made a pivot to gain the support of finance (which has since defected back to the Republicans), and Hollywood and the entertainment business has long been a stalwart source of support for Democrats.
+
+Silicon Valley’s massive wealth and liberal leanings on many issues of importance make it a natural source of funds for the Democratic party going forward, a source that the party is already actively cultivating. But these funding alignments are sometimes accompanied by concessions on policy. The Democratic alliance with finance, for instance, arguably played a role in the Clinton administration’s deregulatory posture toward banks in the late 1990s. The alliance with Hollywood has played a role in passing more protective copyright laws.
+
+So it’s reasonable to wonder what the burgeoning alliance with Silicon Valley will mean for the Democratic platform going forward.
+
+“On the one hand, technology entrepreneurs seem poised to reinforce pressure from Democratic donors to move the party leftward on many issues related to economic, social, and global equality,” the authors write. “At the same time, technology entrepreneurs stand opposed to many government interventions in markets, such as government support for labor unions, worker protections, and consumer protections.” While the survey doesn’t speak to this, the Google experience with New America suggests antitrust regulations could also be threatened by greater Silicon Valley influence and power.
+
+One potential way to square the circle would be for tech entrepreneurs and more traditional Democrats to band together for deregulatory policies that also boost equality. Loosening zoning and other land use restrictions, for instance, can drastically reduce rents and make it easier for low- and middle-income people to live in cities like San Francisco. Easing up on occupational licensing for doctors and dentists can make health care more affordable. But even working together on those issues might not avoid conflict on unionization, minimum wage increases, and other areas where tech entrepreneurs’ deregulatory instincts run afoul of the traditional Democratic consensus.

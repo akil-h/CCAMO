@@ -1,0 +1,27 @@
+The Food and Drug Administration has approved the first-ever gene therapy to treat cancer in the US. The treatment offers a totally new approach to fighting the disease and could lead to novel treatments of other serious and life-threatening maladies.
+
+On Wednesday, the FDA approved a new leukemia treatment from the Swiss pharmaceutical company Novartis, which the agency said is “the first gene therapy available in the United States.”
+
+The treatment, called Kymriah, is a “genetically-modified autologous T-cell immunotherapy,” where each dose is created by using the patient’s own T-cells, a type of white blood cell known as a lymphocyte.
+
+Each patient’s T-cells are sent to a manufacturing center where they are genetically modified to include a new gene that contains a specific protein, called a chimeric antigen receptor (CAR). The CAR-T cells known as “a living drug,” are then infused back into the patient, where they target and kill leukemia cells.
+
+“We’re entering a new frontier in medical innovation with the ability to reprogram a patient’s own cells to attack a deadly cancer,” FDA Commissioner Scott Gottlieb said in a statement. “New technologies such as gene and cell therapies hold out the potential to transform medicine and create an inflection point in our ability to treat and even cure many intractable illnesses.”
+
+The treatment has been approved for patients up to the age of 25 who have a form of acute lymphoblastic leukemia (ALL), a cancer of the bone marrow and blood, that is refractory or in second or later relapse.
+
+Acute lymphoblastic leukemia is the most common childhood cancer in the US, affecting approximately 3,100 patients aged 20 and younger, according to the National Cancer Institute.
+
+With the CAR-T cell therapy, 90 percent of young patients suffering from ALL who used to be considered fatal cases are now able to recover, according to Dr. Francis Collins, director of the National Institute of Health (NIH).
+
+The FDA said that Kymriah was shown to be safe and effective in the clinical trials of 63 pediatric and young adult patients with ALL.
+
+“Kymriah is a first-of-its-kind treatment approach that fills an important unmet need for children and young adults with this serious disease,” Peter Marks, director of the FDA’s Center for Biologics Evaluation and Research (CBER), said in a statement. “Not only does Kymriah provide these patients with a new treatment option where very limited options existed, but a treatment option that has shown promising remission and survival rates in clinical trials.”
+
+Novartis, the company behind the treatment, said that they are working to “change the course of cancer care.”
+
+“As a breakthrough immunocellular therapy for children and young adults who desperately need new options, Kymriah truly embodies our mission to discover new ways to improve patient outcomes and the way cancer is treated,” Bruno Strigini, CEO of Novartis Oncology, said in a statement.
+
+Novartis also said the FDA approved a Risk Evaluation and Mitigation Strategy (REMS) for Kymriah. The program will inform and educate healthcare professionals about the treatment and the risks that are associated with it.
+
+The company also states they are establishing a network of certified treatment centers across the US, which they said will be “fully trained on the use of Kymriah and appropriate patient care.”

@@ -1,0 +1,23 @@
+According to previously classified documents obtained by Circa, the National Security Agency during the Obama administration intentionally and routinely violated American privacy protections and court-ordered guidelines implemented in accordance with federal law.
+
+The documents indicate that more than 5 percent of NSA searches obtained through “upstream” Internet data inside Section 702 of the Foreign Intelligence Surveillance Act violated the safeguards President Obama and his intelligence chiefs vowed to follow in 2011.
+
+Upstream collection refers to the interception of data from the Internet “backbone,” such as major major Internet cables and switches, and accounts for roughly 9 percent of the NSA’s collection haul. While upstream collection is a vital tool for gathering intelligence against foreign threats to the United States, it is another matter to deliberately target American citizens at home.
+
+These concerns were reportedly disclosed by the Obama administration in a closed-door hearing on Oct. 26 before the Foreign Intelligence Surveillance Court, less than two weeks before Donald Trump was elected. The court allegedly stated that the failure to disclose the extent of the NSA’s many violations at an earlier time amounted to an “institutional lack of candor” and that the searches performed by the NSA presented a “very serious Fourth Amendment issue,” according to court documents dated April 26, 2017.
+
+“Since 2011, NSA’s minimization procedures have prohibited use of U.S.-person identifiers to query the results of upstream Internet collections under Section 702,” the unsealed court ruling reportedly states. “The Oct. 26, 2016 notice informed the court that NSA analysts had been conducting such queries in violation of that prohibition, with much greater frequency than had been previously disclosed to the Court.”
+
+Speaking Wednesday on Fox News, Republican Kentucky Sen. Rand Paul said that, if true, these oversteps constitute “an enormous abuse of power.”
+
+The American Civil Liberties Union also added that the newly disclosed violations are some of the most serious to ever be documented and casts doubt over the U.S. intelligence community’s ability to self-regulate and safeguard American citizens’ right to privacy.
+
+“I think what this emphasizes is the shocking lack of oversight of these programs,” said Neema Singh Guliani, the ACLU’s legislative counsel in Washington.
+
+“You have these problems going on for years that only come to the attention of the court late in the game and then it takes additional years to change its practices,” she continued. “I think it does call into question all those defenses that we kept hearing, that we always have a robust oversight structure and we have culture of adherence to privacy standards. And the headline now is they actually haven’t been in compliance for years and the FISA court itself says in its opinion is that the NSA suffers from a culture of a lack of candor.”
+
+The NSA responded by publishing a statement on their website in April claiming that their agency will “no longer collect certain Internet communications that merely mention a foreign intelligence target.”
+
+Section 702 of the Foreign Intelligence Act is set to expire this year.
+
+Content created by The Daily Caller News Foundation is available without charge to any eligible news publisher that can provide a large audience. For licensing opportunities of our original content, please contact [email protected].

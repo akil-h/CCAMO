@@ -1,0 +1,31 @@
+Imagine this scenario: Five different hunters are on a ridge, stalking a herd of deer. Each person has a different weapon — some old, some new — and a radio, but there’s one big problem.
+
+Each radio is on a different frequency, and the group can’t talk to each other. That means they can’t decide which hunter shoots where, or work together as a team at all.
+
+That basic situation is something that the military is trying to solve… only instead of hunters, the forces that it needs to coordinate are flying in different aircraft high above the earth.
+
+New technology platforms including the F-22 and F-35 fighters often have a difficult time communicating with older but still useful allied assets, such as venerable F-15 jets.
+
+Even when communication is working well, pilots need to coordinate their fire in order to take out the enemy as effectively as possible, without wasting weapons on the same target or missing vital objectives.
+
+That’s where Lockheed Martin’s “Einstein Box” comes in. According to Defense Systems, a new device called the “Enterprise Mission Computer 2.0” or EMC2 — you see where the Einstein nickname comes from — is revolutionizing the modern air battlefield.
+
+Earlier this year, the EMC2 system flew for the first time aboard a U-2 “Dragon Lady” surveillance craft.
+
+“The EMC2 is designed to be stealthy, operate at high-altitude, increase the line-of-sight scope necessary for directional data transmissions, and overcome the communication barrier between different generations of aircraft,” explained the defense news magazine.
+
+In simple terms, the Einstein Box acts as an intermediary between many assets in an area. Like a translator who speaks ten languages, the advanced device can coordinate incoming and outgoing signals for a variety of aircraft, including less modern planes that we or our allies may still be using.
+
+“Secured to the avionics processor of an aircraft, the EMC2 could reconfigure the wavelengths of incoming communication signals to ensure compatibility between the different tactical data links of transmitting aircraft,” stated Defense Systems.
+
+The newest U.S. aircraft use stealthy radio transmissions above 20 gigahertz to stay fairly undetectable, even when communicating large amounts of data over their wireless networks.
+
+Less modern airplanes don’t have this technology, but the Einstein Box acts as a “go between” that permits older systems to send information to the new aircraft without compromising their stealth.
+
+As every infantryman knows, the three main tactics of a fighting asset are: “Move, Shoot, and Communicate.”
+
+Next-generation airplanes like the F-22 and F-35 can move and shoot like no other craft before them. Now, they can communicate in new and secure ways as well… and that means the U.S. military is even more lethal than before.
+
+H/T We Are The Mighty
+
+Please press “Share on Facebook” if you support America’s military and the cutting-edge technology that keeps it in the lead.

@@ -1,0 +1,15 @@
+Hacker Group OurMine Targets Vevo's Data (And Removes It By Request)
+
+Vevo, the music video platform co-owned by the three major labels along with Google's parent company and the Dubai-based Abu Dhabi Media, was the victim of a hack by the prolific group OurMine in the early hours of Friday. The hack was revealed by OurMine in a blog post.
+
+Data including one-sheets on featured artists and marketing materials, supposedly 3.12 terabytes worth, was posted to OurMine's website. Hours later, Vevo requested that the stolen info be taken down, and OurMine removed it.
+
+In an email to NPR, OurMine, which operates anonymously, claims it did not initially intend to post the data publicly and tried to alert Vevo of the breach privately, but that Vevo responded, "F*** off, you don't have anything." OurMine shared a screenshot of that exchange, which lacked any identifying information and so could not be verified as taking place between the two, with NPR. Vevo would not verify the exchange to NPR when asked.
+
+Why was Vevo targeted? In its email to NPR, OurMine wrote, "Every month we pick random companies to check their security and Vevo was one of them." (So it was not this 2016 tweet.)
+
+Asked for particulars about the hack, such as when it learned of the attack, whether any user data was posted publicly, when it requested its data be removed from public availability and what steps it was taking to prevent future attacks, Vevo issued this statement: "We can confirm that Vevo experienced a data breach as a result of a phishing scam via LinkedIn. We have addressed the issue and are investigating the extent of exposure."
+
+In addition to posting private documents publicly, OurMine is also a business, offering its security services to both individuals (for $30) and companies (price upon request). While high-profile hacks of companies like Vevo and individuals like the singer Troye Sivan and tech mogul Mark Zuckerberg (password: "dadada") act as marketing for the company — generating articles like the one you're reading now — OurMine says that's not the point of its activities. "We are doing this to improve the world security, as we said before we start all the hacks we did. No one is safe from hackers, even us!"
+
+According to the group's own posts that doesn't seem to be the whole truth — its hack of BuzzFeed Media in Oct., 2016, appeared to be retaliatory, "because they are reporting fake news about us." The group posted on BuzzFeed's website a warning: "don't share fake news about us again, we have your database. Next time it will be public. Don't f*** with OurMine again."

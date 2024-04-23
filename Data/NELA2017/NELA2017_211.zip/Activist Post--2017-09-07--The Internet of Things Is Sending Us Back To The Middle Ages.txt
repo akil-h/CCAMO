@@ -1,0 +1,39 @@
+Op-Ed by Joshua A.T. Fairfield Professor of Law, Washington and Lee University
+
+Internet-enabled devices are so common, and so vulnerable, that hackers recently broke into a casino through its fish tank. The tank had internet-connected sensors measuring its temperature and cleanliness. The hackers got into the fish tank’s sensors and then to the computer used to control them, and from there to other parts of the casino’s network. The intruders were able to copy 10 gigabytes of data to somewhere in Finland.
+
+By gazing into this fish tank, we can see the problem with “internet of things” devices: We don’t really control them. And it’s not always clear who does – though often software designers and advertisers are involved.
+
+In my recent book, Owned: Property, Privacy and the New Digital Serfdom, I discuss what it means that our environment is seeded with more sensors than ever before. Our fish tanks, smart televisions, internet-enabled home thermostats, Fitbits and smartphones constantly gather information about us and our environment. That information is valuable not just for us but for people who want to sell us things. They ensure that internet-enabled devices are programmed to be quite eager to share information.
+
+Take, for example, Roomba, the adorable robotic vacuum cleaner. Since 2015, the high-end models have created maps of its users’ homes, to more efficiently navigate through them while cleaning. But as Reuters and Gizmodo reported recently, Roomba’s manufacturer, iRobot, may plan to share those maps of the layouts of people’s private homes with its commercial partners.
+
+Like the Roomba, other smart devices can be programmed to share our private information with advertisers over back-channels of which we are not aware. In a case even more intimate than the Roomba business plan, a smartphone-controllable erotic massage device, called WeVibe, gathered information about how often, with what settings and at what times of day it was used. The WeVibe app sent that data back to its manufacturer – which agreed to pay a multi-million-dollar legal settlement when customers found out and objected to the invasion of privacy.
+
+Those back-channels are also a serious security weakness. The computer manufacturer Lenovo, for instance, used to sell its computers with a program called “Superfish” preinstalled. The program was intended to allow Lenovo – or companies that paid it – to secretly insert targeted advertisements into the results of users’ web searches. The way it did so was downright dangerous: It hijacked web browsers’ traffic without the user’s knowledge – including web communications users thought were securely encrypted, like connections to banks and online stores for financial transactions.
+
+One key reason we don’t control our devices is that the companies that make them seem to think – and definitely act like – they still own them, even after we’ve bought them. A person may purchase a nice-looking box full of electronics that can function as a smartphone, the corporate argument goes, but they buy a license only to use the software inside. The companies say they still own the software, and because they own it, they can control it. It’s as if a car dealer sold a car, but claimed ownership of the motor.
+
+This sort of arrangement is destroying the concept of basic property ownership. John Deere has already told farmers that they don’t really own their tractors but just license the software – so they can’t fix their own farm equipment or even take it to an independent repair shop. The farmers are objecting, but maybe some people are willing to let things slide when it comes to smartphones, which are often bought on a payment installment plan and traded in as soon as possible.
+
+How long will it be before we realize they’re trying to apply the same rules to our smart homes, smart televisions in our living rooms and bedrooms, smart toilets and internet-enabled cars?
+
+The issue of who gets to control property has a long history. In the feudal system of medieval Europe, the king owned almost everything, and everyone else’s property rights depended on their relationship with the king. Peasants lived on land granted by the king to a local lord, and workers didn’t always even own the tools they used for farming or other trades like carpentry and blacksmithing.
+
+Over the centuries, Western economies and legal systems evolved into our modern commercial arrangement: People and private companies often buy and sell items themselves and own land, tools and other objects outright. Apart from a few basic government rules like environmental protection and public health, ownership comes with no trailing strings attached.
+
+This system means that a car company can’t stop me from painting my car a shocking shade of pink or from getting the oil changed at whatever repair shop I choose. I can even try to modify or fix my car myself. The same is true for my television, my farm equipment and my refrigerator.
+
+Yet the expansion of the internet of things seems to be bringing us back to something like that old feudal model, where people didn’t own the items they used every day. In this 21st-century version, companies are using intellectual property law – intended to protect ideas – to control physical objects consumers think they own.
+
+My phone is a Samsung Galaxy. Google controls the operating system and the Google Apps that make an Android smartphone work well. Google licenses them to Samsung, which makes its own modification to the Android interface, and sublicenses the right to use my own phone to me – or at least that is the argument that Google and Samsung make. Samsung cuts deals with lots of software providers which want to take my data for their own use.
+
+But this model is flawed, in my view. We need the right to fix our own property. We need the right to kick invasive advertisers out of our devices. We need the ability to shut down the information back-channels to advertisers, not merely because we don’t love being spied on, but because those back doors are security risks, as the stories of Superfish and the hacked fish tank show. If we don’t have the right to control our own property, we don’t really own it. We are just digital peasants, using the things that we have bought and paid for at the whim of our digital lord.
+
+Even though things look grim right now, there is hope. These problems quickly become public relations nightmares for the companies involved. And there is serious bipartisan support for right-to-repair bills that restore some powers of ownership to consumers.
+
+Recent years have seen progress in reclaiming ownership from would-be digital barons. What is important is that we recognize and reject what these companies are trying to do, buy accordingly, vigorously exercise our rights to use, repair and modify our smart property, and support efforts to strengthen those rights. The idea of property is still powerful in our cultural imagination, and it won’t die easily. That gives us a window of opportunity. I hope we will take it.
+
+Joshua A.T. Fairfield, Professor of Law, Washington and Lee University
+
+This article was originally published on The Conversation. Read the original article.

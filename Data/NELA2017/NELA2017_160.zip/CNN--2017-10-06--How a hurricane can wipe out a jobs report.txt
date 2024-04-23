@@ -1,0 +1,69 @@
+For the first time in seven years, the United States lost jobs this month. The reason? Hurricanes.
+
+Roughly 33,000 jobs were lost during the month of September, according to preliminary numbers from the Bureau of Labor Statistics, likely ending 83 consecutive months of job growth in the United States that stretched for years under former President Barack Obama into President Donald Trump's term.
+
+And seeing how much Trump has bragged about low unemployment and high jobs growth during the first eight months of his presidency, it's important to understand why this number went down and what we can expect for the future.
+
+To understand how a storm can wipe out the topline of a jobs report, you need to understand how the Bureau of Labor Statistics actually, you know, works.
+
+National jobs growth numbers come from the Department of Labor's "payroll" or "establishment" survey, which estimates the number of wage and salary jobs, excluding agriculture jobs. About 140,000 business and agencies are included in the sample. All the dirty details are here
+
+But here's the catch: All the counting happens during the week of the 12th of the month. That means, in the words of the BLS website, "Employees who are not paid for the pay period that includes the 12th of the month are not counted as employed."
+
+The point is that hurricanes -- and even what day of the month they make landfall -- can make a big difference that final jobs number.
+
+The landfall of Hurricanes Harvey and Irma certainly made a dent in the month's job numbers released Friday.
+
+"A sharp employment decline in food services and drinking places and below-trend growth in some other industries likely reflected the impact of Hurricanes Irma and Harvey," said William J. Wiatrowski, the BLS acting commissioner, in a statement.
+
+Here's how Labor Secretary Alexander Acosta explained it in a statement:
+
+"The number of paychecks earned for the week of September 10 through 16 declined by 33,000, largely reflecting Irma's devastating landfall on September 10. ... (M)ore Americans are employed, yet many missed a paycheck in September. These Americans are counted as employed for purposes of the employment survey but not for purposes of the jobs (payroll) survey."
+
+Got that? The survey used to tally the number of jobs basically says that jobs that didn't receive a paycheck for the week of the 12th don't exist. (BLS rules say that "employees who receive pay for any part of the pay period, even one hour, are counted in the payroll employment figures" -- whether that period is one week, two weeks or the full month.)
+
+And it turns out there were a lot of them:
+
+"In September, 1.5 million workers had a job but were not at work for the entire reference week due to bad weather, the highest level for this series over the past 20 years," Wiatrowski said.
+
+One of the main factors was a decline of 105,000 food services jobs in September. "In this industry, a large majority of workers are not paid when they are absent from work," explained Wiatrowski.
+
+Hurricane Harvey hit on Aug. 25, making "no discernable effect" on the August jobs report, according to BLS. National estimates do not include Puerto Rico or the US Virgin Islands, so the effect of Hurricane Maria won't be felt in this data.
+
+But a major hurricane doesn't always result in a decline in this jobs number.
+
+Sandy, a major hurricane that wreaked havoc New York City just days before the 2012 presidential election, didn't have any affect on jobs numbers.
+
+"Sandy had no discernible effect on the employment and unemployment data for October. Household survey data collection was completed before the storm," officials wrote in October of that year.
+
+And in November? Same story. "Our analysis suggests that Hurricane Sandy did not substantively impact the national employment and unemployment estimates for November."
+
+Other times have called for drastic measures. When the United States got bludgeoned by three major hurricanes in 2005 -- Katrina, Rita and Wilma -- the Bureau of Labor Statistics had to get creative.
+
+In the wake of Hurricane Katrina, the September report at the time needed "several modifications to the usual estimation procedures" to determine the jobs numbers.
+
+The steps included efforts "(to) impute employment counts for survey nonrespondents in the most heavily impacted areas," "adjustments to sample weights for sample units in the more broadly defined disaster area to compensate for lower-than-average survey response rates" and "modification of the adjustment procedure for the business net birth/death estimator to reflect likely changes in business birth/death patterns in the disaster areas."
+
+Labor officials noted at the time that, although Hurricane Rita made landfall in September, it affected response rates only and "the impact of this storm on measures of employment and unemployment was negligible."
+
+They used the same three adjustments for the October report, while noting response rates were "only slightly below normal in the areas affected by Rita," and the impact of Wilma was "minimal."
+
+Things were back to normal, at least for this survey, in November.
+
+Sometimes it's not clear exactly what the hurricane's influence is.
+
+In August, Bureau of Labor Statistics said "there were no discernable weather-related effects on national payroll employment as measured by the establishment survey. This was likely due to the fact that the storm hit late in the reporting period for most of our survey respondents."
+
+But by the end of September, four hurricanes had made landfall in the United States. Here was the takeaway from the Bureau of Labor Statistics: "While some employed persons were off payrolls during the survey reference period because of the hurricane effects, some jobs were added as part of recovery efforts. It is not possible to quantify precisely the net impact of this unusual string of severe weather events on the payroll employment data for September. At the national level, the severe weather appears to have held down employment growth, but not enough to change materially the Bureau's assessment of the employment situation in September."
+
+Then in October, more than 70,000 construction jobs were added, "boosted by cleanup and reconstruction efforts in hurricane-affected areas of the Southeast."
+
+Hurricane Floyd, which made landfall in North Carolina and climbed up the East Coast of the United States, did make a dent in jobs numbers in 1999.
+
+"The widespread flooding and other serious problems caused by Hurricane Floyd during the survey reference period negatively affected employment in some industries," labor officials wrote in a statement at the time, adding that some slow growth had nothing to do with the hurricane. "The disruptions caused by Hurricane Floyd may have contributed to employment declines or below-average growth in personnel supply services, amusements and recreation, social services, and membership organizations."
+
+In fact, 3.4 million full-time workers who usually worked 35 or more hours per week worked less than 35 hours during the week of the survey, according to the BLS.
+
+The next month, the numbers bumped again, "some of which reflects cleanup and reconstruction following Hurricane Floyd."
+
+A handful of other recent storms that caused lots of damage still had no effect on jobs numbers, like Hurricane Ike in 2008 ("it is unlikely the storm had substantial effects on the national employment estimates") and other storms over the last two decades that caused significant damage. BLS reports stretch back only to 1995.

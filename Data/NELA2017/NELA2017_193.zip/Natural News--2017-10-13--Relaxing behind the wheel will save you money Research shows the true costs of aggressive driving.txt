@@ -1,0 +1,15 @@
+Recent research shows that relaxed drivers save more money and fuel than aggressive drivers. In order to measure the impact speeding and slamming on brakes on fuel economy and consumption, the researchers at the Oak Ridge National Laboratory (ORNL) reviewed other past studies, created a new vehicle energy model, and tested it on two same mid-sized sedans — one ran on electricity and the other ran on gasoline.
+
+To differentiate fuel consumption, the hybrid electric vehicle (HEV) and the conventional gasoline vehicle were examined through driving tests at the lab’s National Transportation Research Center. The researchers specifically examined the limitations of the HEV when recapturing energy to recharge the battery during various levels of hard braking.
+
+“The new vehicle energy model we created focused on the limitations of regenerative braking along with varying levels of driving-style aggressiveness to show that this could account for greater fuel economy variation in an HEV, compared to a similar conventional vehicle,” explained Thomas.
+
+The study, published in the SAE International Journal of Fuels and Lubricants, revealed that aggressive drivers waste approximately $0.25 to $1 per gallon of fuel they buy. The gas mileage in light-duty vehicles is lower by around 10 to 20 percent in stop-and-go traffic, while gas mileage is down by about 15 to 30 percent at highway speeds.
+
+The findings established a dataset of self-reported gas mileage values by drivers on FuelEconomy.gov, a website run by the United States’ government that informs consumers about fuel economy. Furthermore, the dataset suggested that conventional gasoline vehicles are less sensitive to driving style than HEVs.
+
+“Our findings added credence to the idea that an aggressive driving style does affect fuel economy probably more than people think,” said John Thomas, lead author of the study.
+
+This study opens doors for more comprehensive studies about developing traffic flow by “smart” traffic control systems and autonomous vehicles.
+
+Your driving behavior and your car’s condition affect the amount of fuel you use. Here are some tips on saving gas and money, according to U.S. Department of Energy. (Related: Top 10 ways to burn less gas and save money on fuel.)

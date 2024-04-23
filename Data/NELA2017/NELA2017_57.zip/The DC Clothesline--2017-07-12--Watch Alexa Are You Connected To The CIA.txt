@@ -1,0 +1,21 @@
+It’s no secret that Amazon Web Services provides cloud storage for the U.S. Central Intelligence Agency and other foreign governments.
+
+This, of course, begs the question of whether or not Amazon and the CIA have a relationship outside of just the web services being provided.
+
+The following videos suggest that either something is wrong with Alexa, or someone at Amazon has specifically coded the software to ensure Alexa doesn’t publicly acknowledge an inappropriate relationship wherein Amazon may be sharing or aggregating information directly or indirectly for intelligence organizations.
+
+The user first asks if Alexa will lie to him, to which the bot responds no.
+
+He then asks Alexa if it can tell him what the CIA is, to which the bot responds correctly after a second attempt.
+
+Finally, the user asks the bot whether or not it is connected to the CIA, at which point Alexa simply shuts down or responds that it is having trouble.
+
+And it’s not an isolated case:
+
+The fact is that “smart” TV’s, assistance devices like Alexa and even the microphone on your cellphone can now provide LIVE feeds of conversations going on in our homes directly through the internet.
+
+You may think you’ve done nothing wrong and that there would be no reason for an intelligence agency in the United States or elsewhere to capture this data, but that doesn’t mean they’re not doing it.
+
+As Edward Snowden revealed, quite literally every single internet-connected device is now accessible in real time by the very software he developed:
+
+Make no mistake: THEY ARE LISTENING AND WATCHING.

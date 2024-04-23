@@ -1,0 +1,41 @@
+There’s a tendency to talk about net neutrality in black and white terms.
+
+The narrative often deems net neutrality a liberal versus conservative issue, or a battle between two different types of tech forces — internet service providers like Comcast and Verizon on one side, internet companies like Netflix, Google, and everyone else on the other.
+
+The truth is, things are a bit more nuanced.
+
+For one, polls have repeatedly suggested that most Americans, regardless of their political affiliation, support net neutrality as a concept. Most people involved in this debate agree that an ISP shouldn’t be allowed to artificially block or slow certain websites, or give preferential treatment to some sites in exchange for payment.
+
+The dividing lines here are really about power: who has it, who doesn’t, and who would have it in a world without enforceable net-neutrality laws, which is what Federal Communications Commission (FCC) chairman Ajit Pai seems intent on creating. And within that divide, there are layers.
+
+This past Wednesday, hundreds of internet companies participated in an online protest designed to rally the net neutrality-supporting base and put pressure on the Pai and other Republicans' plans to scrap the existing net-neutrality rules. Those rules treat ISPs akin to public utilities — a la water or electricity providers — via Title II of the Communications Act, and have been upheld in court. The protest’s organizers said more than 2 million comments were submitted to the agency in support of the rules as a result of the event.
+
+The vast majority of the protest's participants were organizations you’ve probably never heard of. Tech giants like Google, Facebook, and Amazon joined the action as well, though, and since those are the companies the masses care about, they got the headlines. Which is fine! Big companies have more influence than smaller ones.
+
+But there are differences between what these giants of the internet and their smaller counterparts are saying. More importantly, there’s a difference in how the most powerful internet companies are incentivized to act. It’s a fine line, but an important distinction for those who want the existing net-neutrality rules to stay.
+
+Here’s how some of the major firms decided to take action on Wednesday:
+
+All of these companies, along with various other big names such as Netflix, linked to a page in support of net neutrality from the Internet Association, a lobbying group that represents many major tech firms. That page lays out the current situation regarding net neutrality, and encourages users to comment to the FCC demanding rules that prohibit blocking, throttling, and paid prioritization by ISPs.
+
+There are two common threads here: The protests themselves were more subdued than past demonstrations, and few of the major companies involved explicitly demanded the legally enforceable, Title II-based net-neutrality rules stay in place today. And that leaves the major tech firms a small but significant bit of wiggle room.
+
+The implication here is that the some of the internet’s powers-that-be are willing to work with Congress on a solution if Pai overturns the agency’s current rules. That feeling was bolstered by a later report from Axios, which said top House Republicans told Facebook, Google, and Amazon to keep their net-neutrality advocacy toned down prior to the event. (Facebook, Google, and the Internet Association declined to comment on the report. Facebook and Google pointed us to the aforementioned messages. Amazon did not respond to a request for comment.)
+
+That doesn’t have to be a bad thing, of course. Bipartisanship is great! But Republicans in Congress have proposed net-neutrality bills in the past, and those bills have typically been weaker than today’s rules in scope: One would’ve kept the main principles in net neutrality in place but weakened the FCC’s ability to regulate ISPs in the future; a current proposal simply repeals the rules and prohibits the FCC from ever making anything similar.
+
+There is obviously speculation involved here: The left and right in Washington are so far apart at the moment that it’s not even clear what a net-neutrality compromise could look like. There’s also no guarantee that Pai’s attempt at overturning the rules would be held up in court, in the likely event that he is challenged there. But given that Pai has questioned whether a ban on paid prioritization is even necessary, and given the broad support he has from Republicans in Washington, it doesn’t seem unreasonable to expect a weaker set of laws.
+
+To be clear, it is wholly wrong to say that major tech firms like Google or Facebook are opposed to net neutrality. They have benefited greatly from it, they likely have thousands of employees who support it, and, again, they have continually expressed support for it as a concept in statements.
+
+But their relatively meager actions on Wednesday serve as a reminder: Net neutrality is about the small, not the big. Google, Facebook, Amazon, Netflix, and the like are titans of their fields. If the (still mostly hypothetical) fears of Title II advocates come true, and ISPs are able to set tolls for access to better quality, the companies with better funding will more easily be able to pay them.
+
+And if those ISPs want to sell lower-cost internet packages that include a few zero-rated sites, but not the whole web — much like Facebook’s Free Basics concept, which Zuckerberg pseudo-defended Wednesday and has been praised by members of President Trump’s FCC transition team despite being blocked in India for violating net-neutrality principles — the largest services are the ones most likely to be included.
+
+Netflix’s gradually weakened stance on net-neutrality is instructive. The streaming giant has gone from threatening ISPs to behave themselves to telling shareholders earlier this year that any change in legislation is inconsequential in a span of three years. In that time, it’s grown to a point where ISPs can’t afford to keep Netflix — or Google, or Facebook, or Amazon — from being easily accessible at a high quality.
+
+Instead, it’s the next Netflix or Facebook that’d be the most vulnerable in a world with no regulatory pressure hanging over ISPs’ heads. It is harder for a startup or smaller competitor to compete when it either can’t afford the payments necessary to stay on a level playing field, or isn’t prominent enough to warrant inclusion in a zero-rated package. A good idea could still win out, but incumbents on all fronts would have a competitive edge.
+
+Again, the major internet firms have made their support for net-neutrality very clear. And working with Congress may be the most realistic thing to do here anyway, given how dead set Pai seems to be on overturning the current rules. But if you care about the future of internet legislation, don’t expect the web’s biggest forces to throw all their weight in one clear direction. There’s too much at stake.
+
+This column does not necessarily reflect the opinion of Business Insider.

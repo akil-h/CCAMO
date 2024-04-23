@@ -1,0 +1,9 @@
+Sometime around midnight EDT WordPress must have released a corrupted update code or something because 100% of the comments are going into moderation.
+
+It’s not anything commentators are doing wrong, and it’s not something we can correct on the admin side.  I’ve no idea what the problem is.
+
+WordPress has these “glitches” from time to time, usually when they release some kind of code or make some kind of update change to the platform.
+
+Hopefully it will auto-correct soon or WordPress engineers will notice what they’ve done.  In the interim we are releasing comments from moderation as quickly as it can be done.
+
+Sorry for the inconvenience.

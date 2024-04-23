@@ -1,0 +1,19 @@
+“You might have an area where most houses are O.K.,” said Mark McGranaghan, vice president of distribution and energy utilization at the Electric Power Research Institute, a nonprofit group that does research for the nation’s power companies. “But crews still need to check all the buildings and disconnect the ones with damage before they can restore service.”
+
+Florida Power & Light plans to send out 16,000 workers, including crews on loan from other utilities, said Eric Silagy, the company’s president, at a news conference on Monday. The company has also deployed drones to assess problems from the air.
+
+Typically, a utility will focus on restoring power to critical facilities like hospitals and communication networks before moving to major population centers. Less-populated areas are usually last in line.
+
+Mr. Silagy said that southwest Florida, where the damage is most extensive, could experience the longest waits. As Irma moved north on Monday, it also left more than a million people without power in Georgia and South Carolina.
+
+There are steps that utilities can take to protect their power grids from storm damage. Florida Power & Light has invested more than $3 billion in such measures since 2006, including replacing wooden poles with sturdier concrete poles, burying some power lines and installing flood monitors at 223 substations to protect equipment. Without those steps, Mr. Silagy said, “we would have seen much more prevalent structural damage.”
+
+“If we were replacing tens of thousands of poles” as was the case after Hurricane Wilma in 2005, he said, “then that is a much different type of restoration process.”
+
+But utilities could go further in improving their resiliency against major storms, a 2016 study by the Electric Power Research Institute found. Smart meters and advanced sensors could help crews identify damage to individual buildings more quickly, and new technology could reroute power automatically away from troubled areas. Breakaway connectors could allow power lines hit by falling trees to come down safely without also taking down poles, which take longer to replace.
+
+“If we could get the damage assessment process down from several days to a day, that would be a big step forward,” Mr. McGranaghan said. But, he cautioned, “with a storm this big, when you have this much damage, you can’t rely exclusively on sensors. In the end, it’s still a lot of grunt work.”
+
+Other steps to further fortify power grids would involve heavier investments. Some cities and regions have decided to bury their power lines underground to protect against winds and falling trees. But doing so is expensive, costing five to ten times more per mile of line, and if an underground power line does get damaged — say, from corrosive saltwater flooding — repairs can take longer. Utilities could also do more to pare back trees in areas where they pose a threat to power lines.
+
+After Hurricane Sandy hit the Northeast in 2012, leaving more than 8 million people without power, some states also began investing hundreds of millions of dollars in so-called microgrids — self-contained power networks that can disconnect themselves from the broader grid when problems arise and run on local power sources such as gas generators, solar panels or batteries for a period. In Brooklyn, more than 130 buildings, including homes and schools, have signed up to join a microgrid under development.

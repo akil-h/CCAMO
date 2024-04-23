@@ -1,0 +1,83 @@
+When the Open Philanthropy Project began a grant program for criminal justice reform, it asked itself a tricky question: Are we doing the right thing?
+
+The project’s organizers believed that pushing for lower prison sentences, particularly for minor offenses, would not lead to more crime. This was supported by a general understanding of the past few decades of experience and research in the US. But the organization, ever skeptical of even its own biases, decided to run the numbers itself.
+
+In came David Roodman, who runs critical evidence reviews. Open Philanthropy got him to review the evidence on how decarceration efforts — which seek to reduce prison sentences and the number of people in prison — would impact crime. His report came out on Monday with some very good news for supporters of decarceration, though the findings are nuanced overall.
+
+“I estimate, that at typical policy margins in the United States today, decarceration has zero net impact on crime,” Roodman wrote in a blog post. “That estimate is uncertain, but at least as much evidence suggests that decarceration reduces crime as increases it. The crux of the matter is that tougher sentences hardly deter crime, and that while imprisoning people temporarily stops them from committing crime outside prison walls, it also tends to increase their criminality after release. As a result, ‘tough-on-crime’ initiatives can reduce crime in the short run but cause offsetting harm in the long run.”
+
+This isn’t the first major analysis to find incarceration has little or no effect on crime; other researchers and studies estimate that since the 1990s, more incarceration contributed to anywhere from 0 to 25 percent of the drop in crime. But Roodman’s analysis is one of the most extensive reviews I have seen.
+
+Roodman, by his own admission, approaches this with an initial bias that decarceration won’t lead to significantly more crime. But in a self-aware review, he takes many steps to check those biases. He doesn’t just compile and review studies; he verifies and replicates some of them. And he acknowledges when his initial assumptions were off.
+
+The result is a really extensive, in-depth review of the research, spanning more than 140 pages. It’s not the final word on this issue, especially given that Roodman warned that much of the existing research seems to be seriously flawed. But it’s a persuasive case that reform efforts to cut incarceration will not cause crime to rise much, if at all.
+
+You can read Roodman’s full analysis or a more concise summary in his blog posts. If you’re interested in criminal justice policy, I strongly recommend you do.
+
+The analysis looked at the effects before, during, and after incarceration: essentially, deterrence, incapacitation, and aftereffects (whether and how someone changes behavior after incarceration). He focused on studies that leveraged experimental or quasi-experimental settings to look at the best possible evidence, covering 35 studies in all.
+
+“In short, it seems, incarceration’s ‘before’ effect is mild or zero while the ‘after’ typically cancels out the ‘during,’” Roodman concluded.
+
+So let’s break that down.
+
+The most representative study for deterrence looked at California’s three-strikes law. In simple terms, the law made it so a person’s prison sentence would escalate for repeatedly committing certain kinds of crime — and with the third “strike” (or crime), someone would get a sentence of 25 years to life, even for a minor felony.
+
+But the law worked in an uneven way: Whether a crime gave a strike depended on the charge. So a defendant could be accused of stealing something, but whether that counted as a strike depended on whether he was charged with a serious felony. This often came down to prosecutors’ and judges’ discretion.
+
+Researchers Eric Helland and Alexander Tabarrok took advantage of the perceived randomness behind prosecutors’ and judges’ discretion, developing a real-world quasi-experiment. In doing this, they could compare prisoners who had supposedly committed a similar number of crimes but were at different stages in the strike system, to see if the people facing longer prison sentences were more deterred from committing crime.
+
+They concluded that the people facing a third strike were less likely to reoffend than those only facing a second. By Roodman’s estimate, this meant that “each 10% increase in prospective sentence reduced arrests 1.2%” — a modest but significant effect.
+
+Roodman, however, opted to replicate the study. He found a big problem: The groups being compared were not exactly similar. In particular, there was a critical error in one of the study’s tables that underestimated the prior arrests for the one-strike group. “[I]f the two-strikers came into the study with fewer priors, we don’t need deterrence to explain why they were arrested less after,” Roodman noted. (Tabarrok didn’t push back on the findings, saying in a statement that Roodman’s review of the evidence is “a monumental effort that stands as a model for future reviews not just in the economics of crime but in all social science.”)
+
+One study on mandatory minimum sentences seemed to suggest that there was a deterrence effect to more incarceration similar to what the Helland-Tabarrok study originally found. But when Roodman replicated this other study with some tweaks to the methodology, he again found problems — essentially, the findings seemed to be statistically insignificant.
+
+This demonstrates the state of the evidence: Perhaps there was some deterrence effect, but the research has so many caveats that it’s hard to say just how big that effect is. Still, it seems fairly small.
+
+“My synthesis of the evidence is that at current policy margins, making incarceration sentences longer or more likely hardly deters crime,” Roodman wrote.
+
+Another study that Roodman looked at — and replicated — was a decades-old piece by economist Steven Levitt that looked at whether prison overcrowding lawsuits, which could force states to essentially empty out their prisons, had an effect on crime. The thinking was that these arbitrary, often sudden changes in incarceration levels could provide a natural experiment of sorts to see how much incapacitation affected crime levels.
+
+Roodman noted, “His bottom line says that a person who avoided prison because of a judge’s orders to limit overcrowding committed an average of 1.2 police-reported violent crimes and 6.7 police-reported property crimes in that first year of freedom.”
+
+Roodman raised some technical concerns with the study, but he reconstructed it to apply newer methods since the study was published. He found that the original conclusions were right, with some caveats:
+
+The rest of the research generally backs this conclusion, although the studies, which span from California to Italy, vary on just how big of an impact incapacitation has. One big caveat is that some of the research suggests there might be diminishing returns to incapacitation — since as you lock up more and more people, you’re less likely to nab people who are actually likely to reoffend. That might be why, say, the Netherlands and Italy see substantial effects from incarceration, but the US, which has much higher incarceration rates than either of those countries, doesn’t.
+
+Drawing on a replication of the California numbers in particular, Roodman wrote, “Each person-year of averted incarceration causes essentially no change in violent crime but leads in the short run to 1.5 burglaries, 1.2 motor vehicle thefts, and 4.0 other thefts.”
+
+That might sound pretty bad for proponents of criminal justice reform. But Roodman makes a convincing argument that these increases are outweighed by the aftereffects of prison.
+
+There are essentially two sides to the aftereffects: On the positive, prison can cause someone to be less likely to reoffend — by giving people a bad experience that they do not want to go through again, by connecting them with job training or addiction treatment, and so on. On the negative, prison can lead to more criminality — by connecting inmates to social networks of people in gangs or other criminal activity, or by making it much harder to get a legal job due to a criminal record.
+
+On balance, Roodman’s review of the research concluded that the aftereffects are a net negative. So in the aftermath of a prison sentence, especially a long one, someone is made more likely to commit a crime than he would have been otherwise. (Although the review suggested that states can mitigate the negative effects and even create a positive outcome if they focus more on rehabilitation instead of punishment.)
+
+“Nevertheless a substantial family of studies coalesces around the finding that when incapacitation and aftereffects are measured in the same setting, the first is offset by the second, over time,” Roodman concluded. “That is to say: putting someone in prison cuts crime in the short run but increases it in the long run, on net.”
+
+One study, by researchers Donald Green and Daniel Winik, took advantage of the near-random nature with which judges are assigned cases to see whether a prison sentence made someone more likely to commit crime once he was released. Even including the incapacitation effect of actually being in prison, someone who was incarcerated was more likely to get arrested after release within four years of a judge’s sentence.
+
+As Roodman put it, “[D]oing more time increased the chance of rearrest within four years, even though it narrowed the window for rearrest.”
+
+The study wasn’t perfect. Roodman’s statistical analysis suggested “that defendants assigned to some courtrooms had systematically different rearrest rates for reasons separate from their sentences.” So the groups that were compared weren’t exactly similar, which could explain some of the findings. Still, when Roodman corrected for this, it didn’t change the results much.
+
+Accounting for the other studies in this area, Roodman concluded that more research found prison left a negative aftereffect, on net, than a positive one. And that aftereffect seemed to be enough to outweigh the incapacitation effect, as the Green-Winik study suggested.
+
+Adding this all up, Roodman concluded that decarceration proposals won’t cause more crime. The deterrence effects of incarceration hover around zero. Incapacitation does have some effect, but the aftereffects then outweigh the incapacitation. It’s a wash.
+
+“[B]uilding and filling prisons is not making people safer,” Roodman wrote. “It may even be endangering the public. In that case, the cost-benefit case for decarceration is a no-brainer: all benefit and no cost.”
+
+Acknowledging he has a bias, Roodman put forward a devil’s advocate argument. In this, he tried to calculate the costs and benefits of decarceration in financial terms. But he included the studies that went against his priors, even those in which he exposed methodological flaws (albeit with some corrections).
+
+“Overall, I estimate the societal benefit of decarceration at $92,000 per person-year of averted confinement. That figure is dominated by taxpayer savings and the money value of gained liberty,” Roodman wrote. “The crime increase perceived by the devil’s advocate translates into $22,000–$92,000, depending on the method used to express crime’s harm in dollars.”
+
+Based on these estimates, incarceration appears to be at best neutral in cost-benefit terms, and at worst more harmful than beneficial.
+
+Beyond the findings on incarceration and crime, one alarming conclusion in Roodman’s review is that a lot of the research on these topics is bad.
+
+Out of the 35 studies that Roodman reviewed, he reconstructed eight. Once he did this, he found big methodological concerns in seven of the studies and changed the conclusions for four.
+
+Maybe Roodman had unusually bad luck of the draw with the studies he replicated. But some of these were major, well-known studies — and his findings suggest that, at the very least, some big errors are making it through even supposedly rigorous pre-publish reviews.
+
+“These studies endured much tougher scrutiny from me than they did from peer reviewers in order to make it into academic journals,” Roodman wrote. “Yet given the stakes in lives and dollars, the added scrutiny was worth it. So from the point of view of decision makers who rely on academic research, today’s peer review processes fall well short of the optimal.”
+
+Research is supposed to inform policy. But if the research isn’t reliable, it’s not good for much of anything. So while Roodman gives us a compelling case that decarceration is a good idea, it comes with some big — and alarming — question marks.

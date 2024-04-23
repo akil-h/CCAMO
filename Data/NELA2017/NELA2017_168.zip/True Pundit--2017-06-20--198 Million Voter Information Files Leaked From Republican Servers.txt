@@ -1,0 +1,13 @@
+Republican profiling data and personal information on nearly 198 million American voters were leaked from a private Amazon Server Monday.
+
+Amazon hosted the private server, and Republican data analytics firm Deep Root Analytics provided and managed the content. UpGuard cyber risk analyst Chris Vickery first discovered the leak, according to the report from ZDNET.
+
+The information included in the leaks include the voter’s name, date of birth, home address, phone number, and other voter registration details like party affiliation.
+
+The compromised server also included data from conservative market research firm TargetPoint. The group uses their extensive data to help clients better understand voter policy preferences and political actions, according to the report.
+
+“The data that was accessed was, to the best of our knowledge proprietary information as well as voter data that is publicly available and readily provided by state government offices. Since this event has come to our attention, we have updated the access settings and put protocols in place to prevent further access,” Deep Root Co-founder Alex Lundry told ZDNET.
+
+“We accept full responsibility, will continue with our investigation, and based on the information we have gathered thus far, we do not believe that our systems have been hacked,” he concluded.
+
+Content created by The Daily Caller News Foundation is available without charge to any eligible news publisher that can provide a large audience. For licensing opportunities of our original content, please contact [email protected].

@@ -1,0 +1,17 @@
+Facebook famously boasts it has 1.86 billion users who visit the social network every month. It looks like that number shrank on Friday.
+
+The company, which previously announced it's cracking down on fake accounts, said it's disrupted a major spam operation being run out of Bangladesh, Indonesia, Saudi Arabia and other countries.
+
+"The apparent intent of the campaign was to deceptively gain new friend connections by liking and interacting primarily with popular publisher Pages on our platform, after which point they would send spam," Shabnam Shaik, a Facebook technical program manager wrote in a blog post.
+
+"We found that most of this activity was generated not through traditional mass account creation methods, but by more sophisticated means that try to mask the fact that the accounts are part of the same coordinated operation," Shaik wrote. "By disrupting the campaign now, we expect that we will prevent this network of spammers from reaching its end goal of sending inauthentic material to large numbers of people."
+
+The number of authentic users matters for Facebook because the company charges marketers and advertisers to reach the most eyeballs. Facebook didn't reveal the number of accounts affected by this crackdown.
+
+Fake profiles, or bots, are an ongoing problem for social networks, and making software that generates the fake fans has become a big-money industry. In 2014, Facebook estimated 67.7 million to 137.8 million accounts were either duplicates or fake.
+
+Twitter has had the same problem. About 15 percent of Twitter's 319 million active monthly users are reportedly bots, according to research from the University of Southern California and Indiana University.
+
+CNET Magazine: Check out a sample of the stories in CNET's newsstand edition.
+
+Life, disrupted: In Europe, millions of refugees are still searching for a safe place to settle. Tech should be part of the solution. But is it?

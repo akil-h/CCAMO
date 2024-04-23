@@ -1,0 +1,39 @@
+It is now beyond reasonable doubt that the United States is under consistent digital attack by foreign hacking groups linked to hostile governments.
+
+This year cybersecurity company Symantec has linked a Russian hacking group, known by their pseudonym’s “Dragonfly” and “Energetic Bear”, to dozens of hacking attempts on energy companies and nuclear power plant operators.
+
+Fifty of those targeted were U.S. companies and power plants.
+
+The groups have previously been tied to the Russian government. This begs the question: how involved is the Russian government in this series of cyber attacks, and what is the underlying motive?
+
+A possible answer could lie in the ongoing conflict in Ukraine. Kremlin-linked hacking groups have twice successfully caused blackouts thanks to sophisticated attacks, and it now appears that they are exploring that strategic option against the United States.
+
+It cannot be understated how grave a disruption to the U.S. power grid could be. Millions of dollars in revenues would be lost across the board, not to mention the disruption to key services such as transport, utilities and hospitals.
+
+Luckily it seems that these hackers haven’t been able to gain access to control equipment in most cases, but rather have been gathering intelligence on potential targets.
+
+However, in the cases where they did gain access to control equipment, their subsequent actions have been particularly worrying. Vikram Thakur, the technical director at Symantec, stated:
+
+These actions bear the hallmarks of the planning stage of an operation to cause significant disruption to power networks.
+
+Robert Lee, CEO of Dragos, an industrial cyber security firm, is slightly less worried:
+
+Even if they don’t have the ability to affect the U.S. power grid, the fact that they’re actively conducting reconnaissance is indicative of future intentions.
+
+Alongside attacking energy networks, hackers have also been conducting sophisticated phishing campaigns against key engineers and technicians in the industry. Such attacks take the form of a malicious e-mail designed to look like a party invitation or some other innocuous content.
+
+Another method in the hacker’s toolkit is malicious code planted on industry journal websites and magazines frequented by energy engineers. This code can plant malware that will reveal key data such as login details that could later be used to gain access to key systems.
+
+One of the key systems that could be targeted is SCADA, or Supervisory Control and Data Acquisition. This is essentially the electronic nervous systems that allows industry employees to remotely monitor and control important systems such as pumps, motors, relays and valves that underpin modern infrastructure.
+
+Cyber security experts have been warning for years that such a system was susceptible to attack, and in 2015 this threat materialized when a hacking operation known as Sandworm successfully took a Ukrainian power plant offline, causing major blackouts that left 225,000 people without electricity.
+
+Thankfully the United States’ security agencies are far more comprehensive than Ukraine’s, and the consequences of an attack on the United States are far graver, but this doesn’t eliminate the possibility that the United States could suffer from a similar digital assault.
+
+With the relationship between President Donald Trump’s administration and the Russian Government under increasing strain over the closure of Russian diplomatic missions in the U.S., it’s possible that the Kremlin might consider a hack (or the threat of a hack) against the U.S. power grid a viable strategic option to get what it wants.
+
+Naturally, this would all be done by the various hacking groups directed but not controlled by the Kremlin, giving the Russians some deniability and avoiding a world conflict.
+
+It’s time that the Trump administration took the Russian threat seriously. Trump’s admiration of Putin can only go so far.
+
+Add your name to millions demanding that Congress take action on the President’s crimes. IMPEACH DONALD TRUMP!

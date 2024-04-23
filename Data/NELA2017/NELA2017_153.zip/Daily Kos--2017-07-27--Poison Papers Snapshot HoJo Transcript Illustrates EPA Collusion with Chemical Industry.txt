@@ -1,0 +1,59 @@
+The world of independent chemical testing has a shiny veneer. The public is reassured that chemicals they’re exposed to on a daily basis are certified by technicians in spotless white lab coats who carefully conduct scientific studies, including on animals in neat rows of cages.
+
+But a federal grand jury investigation that ended with convictions in the early 1980s discovered that Industrial Bio-Test Laboratories (IBT), the largest such lab in the United States, conducted trials with mice that regularly drowned in their feeding troughs. The dead animals would decompose so quickly that “their bodies oozed through wire cage bottoms and lay in purple puddles on the dropping trays.” IBT even invented an acronym “TBD/TDA” for its raw safety data, later discovered to mean “too badly decomposed.”
+
+That was just one of a host of problems uncovered at IBT which conducted an estimated 35 to 40 percent of all the toxicology tests performed in the United States including for FDA regulated products and EPA regulated pesticides and chemicals. Scientists at the FDA were the first to spot the fraud and misconduct and blew the whistle on IBT in Senate hearings in the late 1970’s. Soon after, the EPA was forced to deal with the issue and estimated behind the scenes that some 80 percent of the data provided to them for chemical registration from IBT was nonexistent, fraudulent, or invalid.
+
+The IBT scandal presented the EPA with a potentially immense crisis. Knowing that almost every IBT test it had looked at was seriously flawed and presumptively fraudulent, it could order retests and withdraw its approval from every IBT-tested chemical. This course of action would have been fully warranted, scientifically. But it would have had drastic effects on the chemical industry, on public confidence, and on the newly-formed EPA itself.
+
+What the EPA did instead is revealed in a transcript of a meeting that took place at the Howard Johnson Inn in Arlington, Virginia on October 3rd, 1978. This secret meeting was between senior figures at EPA, Canada’s Health Protection Branch, and executives of the chemical industry, and was intended to solve the IBT “problem.”
+
+This transcript is part of more than 20,000 documents, weighing over three tons, just released by the Bioscience Resource Project and the Center for Media and Democracy (CMD), on the “Poison Papers.” website. Most of the Poison Papers were collected by author and activist Carol Van Strum, who used documents obtained through public interest lawsuits and open records requests to investigate chemical pollution, and digitized by journalist Peter von Stackelberg. Van Strum’s remarkable story was detailed this week in the Intercept.
+
+The Poison Papers represent a vast trove of rediscovered chemical industry and regulatory agency documents and correspondence stretching back to the 1920s. Collectively they shed light on what was known about chemical toxicity, when, and by whom, in the often-incriminating words of the participants themselves.
+
+The Howard Johnson’s transcript is a prime example of the materials in the trove. It allows us to “listen in” on a conversation that took place decades ago, but still has implication for us today.
+
+The transcript “exemplifies as well as any other single document among the Papers the history of everyday regulatory failures and agency complicity that is the unknown story of the EPA and its enduring collusion with the chemical industry, and whose result is a systemic failure to protect the American public from chemical hazards,” says Dr. Jonathan Latham, Director of the Bioscience Resource Project.
+
+The Howard Johnson’s meeting was called to discuss the IBT scandal and plan a way forward. No consumer groups, environmental groups or members of the public were present that day in Arlington under HoJo’s cheerful orange roof when the topic of how to deal with the dead animals, the fraudulent, and the corrupt data was discussed.
+
+Near the outset of the meeting, the EPA’s Fred Arnold, Acting Branch Chief of Regulatory Analysis & Lab Audits, assured the chemical company representatives present that no chemicals would be removed from the market, even though the studies supposedly showing their safety had been proven fraudulent:
+
+“We determined that [i]t was neither in EPA’s interest or the public interest or the registrants’ interest [to replace all IBT data] because a large number of studies, which were performed at IBT, were performed satisfactorily,” Arnold said. (p. 6).
+
+Yet Arnold’s contention that some of the studies were “satisfactory” was contradicted multiple times in the same meeting. It was later stated, for example, that not one IBT study was free of errors (p. 16). Dr. Arthur Pallotta, Consultant to the Special Pesticide Review Division in the EPA’s Office of Pesticide Programs, stated that “there were few [IBT] studies that did not have discrepancies, errors and omissions” (p. 27). Elsewhere in the transcript, EPA accepted that over 80 percent of the test results from IBT were invalid (p. 123).
+
+But Arnold’s assertion that it wasn’t in anyone’s interest to demand new studies had striking ramifications. It was the grounds for not removing any chemicals from the market, for reassuring the public, and for kicking the IBT mess down the road. By 1983, EPA had determined that over 90 percent of IBT’s studies submitted to them had serious, invalidating problems.
+
+Early in the meeting, EPA made a list of IBT errors that it planned to ignore to make the task of “validating” IBT’s studies manageable.
+
+It planned to ignore whenever animals were missing from (or added to) studies. No statistic existed then – nor does it now – to compensate for such measurement irregularities, but this difficulty was glossed over by the EPA.
+
+Just as bad, many IBT studies appeared to be shorter in time than protocols called for. As David Clegg of Canada’s Health Protection Branch explained to the meeting:
+
+“Now, we have come across the 90-day study where the study started on, let’s say, the 1st of June. The invoice for shipment of the test material from the firm was the 9th of June, and the diet preparation sheets are for the 12th of June. “In other words, by the time the diet was prepared, according to the raw data, the study has been underway for 12 days for a 90-day study. “This does not necessarily invalidate the study, of course. You can still get some information from it, but the whole base line, which you are working from, has to be altered to deal with an 88-day [sic] study or whatever length it is and conclusions have to be drawn on this sort of basis.” (pp. 34-35).
+
+EPA also noted that IBT had major problems with its controls. It had run a system known as “common controls.” These controls were often in different rooms or carried out at different times, presumably with rats from different batches. EPA proposed cobbling such experiments together and thus making use of these controls. Clegg’s tone was apologetic:
+
+“I can’t say that I am very happy about this on scientific grounds, but we are trying to run this as a salvage operation and, if we can come up with something which gives us a reasonable base line for controls which may be applicable to a number of studies, then, when controls are not available, we’ll compare them against those controls,” he said (p. 41).
+
+EPA’s Arnold also admitted at the meeting what appeared to be EPA’s own historical fraud. In revisiting original data sent to them by IBT, manufacturers might find that, in the past, EPA had itself examined the tissue samples and determined there to be “no significant finding” when in fact “the truth of the matter is the organ was never examined” (Arnold, p. 102).
+
+By the time the FDA and EPA had taken a strong interest in the testing lab, IBT had begun a “policy not to sign” its own reports, according to the transcript, indicating that staff were unwilling to stand behind the findings.
+
+As Fred Arnold told the attendees, “A number of scientists, who may have been involved in the early states of a test, are no longer there and nobody can state, categorically, that everything reflected in the report, in fact, is borne out by the raw data” (pp. 63-64).
+
+Arnold admitted that EPA had in the past sometimes accepted unsigned studies. So he stated that its remedy to the new signature problem would be to adopt such unsigned studies in order not “to create a double standard now” (p. 64), effectively adopting IBT’s unprecedented practices as its own.
+
+It was later uncovered in court proceedings that IBT also forged signatures.
+
+Three IBT officials went to prison, closing a chapter on a massive scientific fraud, but the book was never closed.
+
+“As the Howard Johnson transcript reveals, a majority of the IBT studies were never intended to be redone, and still underlie the U.S. chemical regulatory system,” said Latham.
+
+Author Carol Van Strum commented on the significance of the transcript for CMD:
+
+“The 1978 Howard Johnson transcript records a crucial meeting of EPA, Canadian, and pesticide industry officials to discuss EPA’s response to massive fraud in the safety tests for pesticide registrations. At the meeting, Fred T. Arnold, chief of EPA Regulatory Analysis and Lab Audits, assured industry that EPA’s discovery of fraudulent, invalid, or nonexistent safety tests would ‘not interfere with the ability to control pests and market pesticides.’ This document was the linchpin of my book, A Bitter Fog: Herbicides and Human Rights, documenting the government’s acceptance of phony industry studies while dismissing reports of human illness, death, involuntary abortions, birth defects, and other effects of pesticide exposure.”
+
+The Poison Papers website and document trove is a project of the Bioscience Resource Project of Ithaca, New York, and the Center for Media and Democracy of Madison, Wisconsin. You can explore the Poison Papers documents at PoisonPapers.org. You can read the illuminating Howard Johnson’s manuscript here.
