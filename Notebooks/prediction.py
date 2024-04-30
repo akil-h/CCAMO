@@ -6,14 +6,6 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 import zipfile
 
-from sklearn.preprocessing import LabelEncoder
-import tensorflow as tf
-from tensorflow.keras.preprocessing.text import Tokenizer
-from tensorflow.keras.preprocessing.sequence import pad_sequences
-from tensorflow.keras.models import Sequential
-from keras.layers import Embedding, LSTM, Dense, Dropout
-
-
 cd = os.path.dirname(__file__)
 data_directory = os.path.join(cd, '..', 'Data')
 
@@ -56,37 +48,6 @@ df = pd.DataFrame({'Text': article_text, 'label': political_orientation})
 df['Text'] = df['Text'].apply(lambda x: x.decode('utf-8'))
 df['label'] = df['label'].apply(lambda x: x.decode('utf-8'))
 df.tail()
-
-# Encode labels
-
-label_encoder = LabelEncoder()
-df['labels_encoded'] = label_encoder.fit_transform(df['label'])
-
-# Tokenize article text
-max_words = 7000
-tokenizer = Tokenizer(num_words=max_words)
-tokenizer.fit_on_texts(df['Text'])
-X = tokenizer.texts_to_sequences(df['Text']) # X is our 
-X = pad_sequences(X)
-
-# Split data into training and validation sets
-X_train, X_valid, y_train, y_valid = train_test_split(X, df['labels_encoded'], test_size=0.2, random_state=21)
-
-# Construct LSTM
-embedding_size = 100
-lstm_out = 64
-
-lstm_model = Sequential()
-lstm_model.add(Embedding(max_words, embedding_size))
-lstm_model.add(LSTM(lstm_out, dropout=0.2, recurrent_dropout=0.2))
-lstm_model.add(Dense(7, activation='softmax')) # given that there are 7 unique classifications
-lstm_model.compile(loss='sparse_categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
-
-# Part 3: Train LSTM model on input text & political orientation labels
-
-batch_size = 32
-epochs = 5
-history = lstm_model.fit(X_train, y_train, batch_size=batch_size, epochs=epochs, validation_data=(X_valid, y_valid), verbose=1)
 
 '''There are a couple things I want to consider as the project runs on:
 1. Addressing training overfitting
