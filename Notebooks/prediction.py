@@ -88,11 +88,9 @@ batch_size = 32
 epochs = 5
 history = lstm_model.fit(X_train, y_train, batch_size=batch_size, epochs=epochs, validation_data=(X_valid, y_valid), verbose=1)
 
-
-
 '''There are a couple things I want to consider as the project runs on:
 1. Addressing training overfitting
 2. Resampling to address imbalance in the dataset labels
 3. Additional model validation
 4. Add 2018-2022 data
-'''
+'''f
